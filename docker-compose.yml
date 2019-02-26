@@ -1,0 +1,17 @@
+version: "2.3"
+
+services:
+  keras-celeb-pca:
+    build: ./
+    runtime: nvidia
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+    volumes:
+      - ./notebooks:/notebooks
+      - ./alignedCelebFaces:/code
+      - ./data:/data
+      - ./names:/names
+      - ./models:/models
+      - ./modelExamples:/modelExamples
+    ports:
+      - 8888:8888
