@@ -1,0 +1,133 @@
+Kevin Ghost,28,29
+Omari Hardwick,30,45
+Makena Gallagher,31,18
+Sam Bird,32,32
+Muggsy Bogues,33,54
+Thomas Johnson,34,50
+Ryan Hoffman,35,31
+Cristina Bentley,37,35
+Colin Cloud,38,32
+Oana Gregory,39,23
+Lottie Moss,41,21
+Mirabell Lundgren,43,16
+AJ McLean,44,41
+Darrin Jones,46,22
+Ben Azelart,0,17
+Avi Angel,1,13
+Josh Darnit,3,44
+Hrithik Roshan,4,45
+Sarah Ellen,5,21
+Demi Bagby,6,18
+Angelina Jordan,7,13
+Kaitlyn Maher,8,15
+Rod Stewart,9,74
+Staxmontana,12,26
+Carissa Alvarado,13,28
+Tamina Snuka,14,41
+Jon Klaasen,15,21
+Banks Lee,16,33
+POiiSED,17,27
+Chris Smith,19,40
+Harry Mead,20,17
+Zuria Vega,21,30
+Alinity Divine,23,31
+Dylan Huey,24,17
+Tony Gardner,25,55
+Pat Benatar,26,66
+Butch Hartman,27,54
+George Foreman,28,70
+Calum Heaslip,29,18
+Talula Dawn,30,14
+Mattia Harnacke,31,22
+Reyond Lucky Ancheta,33,16
+Ajit Pai,34,46
+Brandon Hoover,36,26
+Abbey Clancy,38,33
+Lewi Morgan,40,31
+Sarah Shahi,43,39
+Conor Dwyer,44,30
+Jemaine Clement,45,45
+Curren Caples,46,23
+Frank Sinatra Jr.,47,1944-2016
+Cody Simpson,0,22
+Julie Franke,1,10
+Louisa Johnson,3,21
+Eve Bennett,4,19
+Mary J. Blige,5,48
+Alexander Hamilton,6,1755-1804
+Jania Bania,8,19
+Lindsay Arnold,9,25
+Jamie Vardy,10,32
+Christian Nodal,11,20
+Rebal,12,20
+Yolanda Hadid,13,55
+Lil Twist,15,26
+Emile Heskey,17,41
+Kyle Richards,20,50
+Emaza Dilan,21,21
+Rachel Riley,22,33
+Leroy San\xc3\xa9,23,23
+Jedidiah Goodacre,24,30
+LunchMoney Lewis,27,31
+Hyolyn,28,29
+Lucy Vives,30,23
+TayTaysNummies,31,14
+Siti Nurhaliza,33,40
+Emmie Alice,34,17
+Noah Zulfikar,38,19
+Nef the Pharaoh,40,24
+Aja Naomi King,41,34
+Sarah Kinert,42,18
+Brianna Perry,43,27
+Libbey Ketterer,44,21
+Josh Cook,45,19
+Amanda Peet,46,47
+Cody Simpson,0,22
+Julie Franke,1,10
+Louisa Johnson,3,21
+Eve Bennett,4,19
+Mary J. Blige,5,48
+Alexander Hamilton,6,1755-1804
+Jania Bania,8,19
+Lindsay Arnold,9,25
+Jamie Vardy,10,32
+Christian Nodal,11,20
+Rebal,12,20
+Yolanda Hadid,13,55
+Lil Twist,15,26
+Emile Heskey,17,41
+Kyle Richards,20,50
+Emaza Dilan,21,21
+Rachel Riley,22,33
+Leroy San\xc3\xa9,23,23
+Jedidiah Goodacre,24,30
+LunchMoney Lewis,27,31
+Hyolyn,28,29
+Lucy Vives,30,23
+TayTaysNummies,31,14
+Siti Nurhaliza,33,40
+Emmie Alice,34,17
+Noah Zulfikar,38,19
+Nef the Pharaoh,40,24
+Aja Naomi King,41,34
+Sarah Kinert,42,18
+Brianna Perry,43,27
+Libbey Ketterer,44,21
+Josh Cook,45,19
+Amanda Peet,46,47
+Zayn Malik,0,26
+Jake Mitchell,1,19
+Mama Rug,3,50
+Naya Rivera,4,32
+Howard Stern,5,65
+Jeff Bezos,7,55
+Pixie Lott,10,28
+Ella Henderson,11,23
+Mandana Mani,12,41
+Issa Rae,14,34
+Jessie Graff,16,35
+Jana Duggar,18,29
+Rob Zombie,19,54
+Isabella Day,20,15
+Nathan Gamble,21,21
+Piolo Pascual,22,42

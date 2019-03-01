@@ -1,0 +1,100 @@
+Parker Ballinger,10,5
+Novak Djokovic,11,31
+Julian Edelman,12,32
+Talia Sagginario,13,19
+Faith Thigpen,14,18
+Suho,15,27
+Judah Lewis,17,17
+Lexy Panterra,18,29
+Fei Yang,21,24
+Kamri Peterson,22,10
+Bradley Martyn,24,29
+Morgan Monrad,25,18
+Alan Ashby,26,27
+Chrisspy,30,31
+Maggie Q,32,39
+Morrissey,34,59
+HyuneeEats,35,28
+Julia Pierce,36,21
+Hannah Forcier,37,22
+Doug DeMuro,38,30
+Maisa Silva,39,16
+Austin Brown,40,32
+Johnny Gill,41,52
+Britney Vargas,42,18
+Brody Stevens,43,1970-2019
+Gemma Weiss,45,1
+Joey Ahern,46,28
+James Charles,0,19
+Jason Nash,1,45
+Little Kelly,2,23
+Gavin Free,5,30
+Trinidad Cardona,7,19
+Bray Wyatt,8,31
+Keilly.aox,9,11
+Lena Meyer-Landrut,10,27
+Wesley Johnson,11,30
+Boston Hoellein,12,5
+Amar Koomz,13,19
+Olivia Crowley,14,15
+SincerelyTater,15,14
+Melissa McBride,16,53
+Drew Carey,17,60
+Official Reine,20,18
+Jewel,23,44
+Natalie Madsen,25,33
+Maxwell,26,45
+Sofie Orstadius,27,18
+Hardy Caprio,28,22
+Jackson Duggar,29,14
+Akiel Julien,30,22
+Lip Balm Addict,31,15
+Jasmin Walia,32,23
+Linden Ashby,34,58
+turnthepaige,35,21
+Joan Collins,37,85
+Travis Talbott,38,36
+Kelly Monaco,41,42
+Tosh Zhang,43,29
+Miko Fogarty,44,21
+Deshayla Harris,45,26
+TheMyth,0,19
+Carter Reynolds,1,22
+G-Eazy,2,29
+Christian DelGrosso,3,25
+Queen Victoria,4,1819-1901
+David Lopez,5,31
+Jayla Vlach,7,13
+Lohanthony,8,19
+Alyssa Shouse,11,23
+Darren Espanto,12,17
+Bobby Lockwood,13,25
+Cayden Boyd,15,24
+Patti LaBelle,16,74
+Luke Lerdwichagul,17,19
+Mark Ballas,18,32
+Ryan Upchurch,19,27
+Tommy Chong,20,80
+Priscilla Presley,21,73
+Tanner Patrick Howe,22,27
+Dermot O&#039;Leary,24,45
+Tracy McGrady,25,39
+Cole Sand,26,15
+John C. Reilly,27,53
+Joey Logano,28,28
+Kadence Ann,32,11
+Paul Joseph Watson,33,36
+Eric Cantona,34,52
+Tommy Page,35,1970-2017
+Heavy D,36,1967-2011
+Billy Gilman,37,30
+Emil Conrad,38,29
+Jake Sim,40,18
+Mellie Stanley,43,29
+Kennia,45,21
+Jay-O,46,17
+Tito Torbellino,47,1981-2014
+Chloe Lukasiak,0,17
+Roman Reigns,1,33
+Jessalyn Grace,2,11
+Brec Bassinger,3,19

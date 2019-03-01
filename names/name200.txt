@@ -1,0 +1,100 @@
+TeeJay,37,25
+Nigella Lawson,38,59
+Nicky Romero,39,30
+Will Shepherd,44,30
+Ndamukong Suh,45,32
+Syd Barrett,46,1946-2006
+Hugh Skinner,47,34
+Weston Koury,0,17
+Mia Dinoto,2,16
+Sofia Wylie,3,15
+Craig Thompson,4,24
+Lewis Hamilton,6,34
+Nicolas Cage,7,55
+Lauren Cohan,9,37
+Jeremy Renner,11,48
+Juan Gabriel,12,1950-2016
+Lauren Curtis,13,26
+Rebecca Felgate,14,30
+Robert Sheehan,17,31
+Leslie Grace,18,24
+Robbert van de Corput,19,31
+Camille Rowe,20,29
+Lauryn Thompson,21,19
+Raymond Warner,22,27
+Marcus Scribner,23,19
+Alisha Inacio,24,32
+Amalie Olsen,27,20
+Aloe Blacc,28,40
+Nadine Leopold,29,25
+Nika Motiie,31,14
+Ben Haenow,32,34
+Brett Dalton,34,36
+Stormie Goldsmith,35,14
+Ivan L. Moody,37,39
+Olympia Valance,38,26
+Jake Parrish,39,22
+Kenny Loggins,40,71
+David Longoria,42,42
+Liam Aiken,43,29
+Stuart Kluz-Burton,45,27
+Lawrence Sonntag,46,35
+David Bowie,3,1947-2016
+Joshua Perez,4,19
+Kim Jong-un,5,36
+R. Kelly,6,52
+Valkyrae,7,27
+Ryan Destiny,9,24
+Genevieve Padalecki,11,38
+Chris DiStefano,12,25
+Emilee Hembrow,13,27
+Orkun Isitmak,14,23
+Isabel Bedoya,15,23
+Isabella Durham,16,16
+Hooverr,17,18
+Kevin Parry,18,32
+Gia Giudice,19,18
+Freddie Stroma,21,32
+David Silva,22,33
+Emma Heesters,23,23
+Jennie Sofie,24,18
+Khylin Rhambo,25,23
+Mathias Dahl Moslund,27,19
+Windell Middlebrooks,29,1979-2015
+Shirley Bassey,33,82
+Sam Riley,34,39
+Carolina Herrera,35,80
+Jordan Kimball,36,27
+Brook Lee,37,48
+Darion Lee,38,18
+Koke,39,27
+Adam Goodes,41,39
+Anais Zanotti,42,33
+Rachel Nichols,44,39
+VMiguel Gonzales,46,22
+Retta,47,25
+Brent Rivera,0,21
+Wengie,1,33
+Blake Gray,2,18
+Nina Dobrev,3,30
+Kate Middleton,4,37
+Deshae Frost,5,18
+Sean Paul,6,46
+Elijah Daniel,7,25
+Cody Carson,9,30
+Nicola Peltz,10,24
+Avery Christine,11,18
+Lauryn McClain,12,22
+Richard Nixon,13,1913-1994
+Jimmy Page,14,75
+Shareef O&#039;Neal,15,19
+Julie Chrisley,16,46
+Jailyne Ojeda Ochoa,18,21
+Callan Potter,19,21
+Alvaro Soler,20,28
+Jelina Lim,21,14
+Nicole Garc\xc3\xada,22,19
+Kerris Dorsey,23,21
+Dave Matthews,25,52
+Laine Taylor,26,17
+J.K. Simmons,27,64

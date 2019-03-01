@@ -1,0 +1,100 @@
+Judith Jackson,19,29
+Lauren Lopez,20,32
+Ethan Peters,21,15
+Boris Kodjoe,22,45
+James Van Der Beek,25,41
+Will Weinbach,27,17
+Andrea Parker,30,48
+Lester Holt,31,59
+Alan Pulido,32,27
+Albert Casarez,33,24
+Ming Xi,34,28
+Camryn Manheim,35,57
+Hines Ward,36,42
+Chad Gable,37,32
+Fatima Lopes,38,53
+Kristinia Debarge,39,28
+Kenny Smith,40,53
+Nick Zano,41,40
+Milana Vayntrub,42,31
+Micky Dolenz,43,73
+Ashley Spencer,44,33
+Some Black Guy,45,30
+Tedashii Anderson,46,41
+Ramona Rizzo,47,46
+Min Yoongi,0,25
+Cyrus Dobre,1,25
+DavidParody,2,27
+Bow Wow,3,31
+JeromeASF,4,24
+Cierra Ramirez,5,23
+Keenon Jackson,6,28
+Matthew Gray Gubler,7,38
+Brittany Snow,8,32
+George Smith,9,19
+Kim Tae-yeon,10,29
+Sedona Fun Kids TV,11,9
+Jeon So-mi,13,17
+Zade Orgill,14,12
+Maite Perroni,15,35
+Charly Jordan,16,19
+Oscar Isaac,17,39
+Stony Blyden,18,25
+Stacey Dooley,19,31
+Clint Dempsey,20,35
+Meryem Can,21,23
+Steve Wilkos,22,54
+Jordan Byers,24,19
+Makenzie Dustman,25,23
+AZ,26,46
+Charles Gross,27,23
+Kato Kaelin,28,59
+Sanne Vloet,29,23
+Matt Barnes,31,38
+Paul Merrell,33,48
+Melina Perez,34,39
+Codrin Bradea,35,22
+Alodia Gosiengfiao,36,30
+Chingy,38,38
+Klariza Clayton,41,29
+Disha Madan,42,26
+Luis Armand Garcia,44,26
+Derick Dillard,46,29
+Hannah Elizabeth,47,28
+Carrie Underwood,0,35
+Mace Coronel,2,14
+Chad Wild Clay,3,34
+Emily Osment,4,26
+Chuck Norris,5,78
+Uriah Shelton,6,21
+Conceited,7,29
+Penelope Juliette,8,3
+Malachi Barton,9,11
+Robin Thicke,10,41
+Heart Defensor,11,29
+Dr. Disrespect,12,36
+Gabby Berry,13,20
+Olivia Wilde,14,34
+Samara Redway,15,23
+Gabriel Zamora,16,25
+Malika Haqq,17,35
+Mod Sun,18,31
+Zach LaVine,19,23
+Logan Shroyer,20,19
+Ivan Rakitic,21,30
+Rita Simons,22,41
+Julia Barretto,23,21
+Larry Hernandez,24,41
+Victoria Vida,25,19
+Joewoahy,26,18
+Timbaland,28,46
+Sharon Stone,29,60
+Jon Hamm,30,47
+Haifa Wehbe,32,46
+Paget Brewster,33,49
+Pablo Espinosa,36,26
+Keke Wyatt,38,36
+Jennifer Arnold,39,44
+Jasmine Guy,40,56
+Benjamin Burnley,41,40
+Haley Orona,42,23

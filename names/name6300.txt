@@ -1,0 +1,116 @@
+MagikarpUsedFly,41,27
+Max Ehrich,42,27
+Shara Martinez,44,35
+Astro,45,61
+Lele Pons,0,22
+Katie Donnelly,1,14
+Austin Brown,2,16
+McKenna Grace,3,12
+George Michael,5,1963-2016
+Hello Kylie,6,13
+Hannah Tolentino,7,21
+Jack Brinkman,8,19
+Josh Price,9,16
+thatkiddtobi,10,14
+Anthony Bourdain,11,1956-2018
+Angela Kinsey,12,47
+La La Anthony,13,39
+Dell Curry,15,54
+Karuna Satori,16,27
+Destin Conrad,18,18
+Lele Pons,0,22
+Katie Donnelly,1,14
+Austin Brown,2,16
+McKenna Grace,3,12
+George Michael,5,1963-2016
+Hello Kylie,6,13
+Hannah Tolentino,7,21
+Jack Brinkman,8,19
+Josh Price,9,16
+thatkiddtobi,10,14
+Anthony Bourdain,11,1956-2018
+Angela Kinsey,12,47
+La La Anthony,13,39
+Dell Curry,15,54
+Karuna Satori,16,27
+Destin Conrad,18,18
+Linda Cardellini,24,43
+Ricky Gervais,25,57
+Jamie Redknapp,26,45
+Sasha Velour,27,31
+Joshua Forsberg,28,17
+Jamie Genevieve,29,25
+Colleenthegirlio,30,9
+Busy Philipps,31,39
+Logan Pepper,32,16
+Rain,33,36
+Dner,34,24
+Bonang Matheba,35,31
+Scott Brown,36,33
+SwavyTv,37,17
+Sonia Sotomayor,40,64
+Dikembe Mutombo,41,52
+Sheridan Smith,43,37
+Briana Walker,44,25
+Karisma Kapoor,45,44
+Jamjamj,46,17
+Ariana Grande,0,25
+Amanda Cerny,1,27
+King Bach,2,30
+Jennette McCurdy,3,26
+Jacob Elordi,4,21
+Drew Monson,5,23
+Derek Jeter,6,44
+Andrew Lowe,7,21
+Natalia Taylor,8,22
+Harley Quinn Smith,9,19
+Andrew Davila,10,18
+Aubrey Plaza,11,34
+CeyNoLimit,12,22
+Cassie Hollister,13,21
+Ryan Abe,14,28
+Michael Vick,15,38
+Nicole Arbour,18,33
+Tina Halada,19,17
+Cuco,20,20
+Iman Shumpert,21,28
+Chiquis,22,33
+Ryan Tedder,24,39
+Nick Offerman,25,48
+Smooky MarGielaa,26,16
+Chad Rock,27,16
+Greg Saniatan,28,31
+Indila,29,34
+Jordan Fish,30,32
+ShadyPenguinn,31,27
+Izzy Life with Brothers,32,10
+Matt Smith,34,22
+Nick Compton,35,35
+Chris O&#039;Donnell,36,48
+Arjun Kapoor,37,33
+Fat Trel,38,28
+Dustin Martin,39,27
+Sean Hayes,41,48
+Paolo Maldini,42,50
+Carlos Liera,43,31
+Benji Garner,44,15
+Ollie McKendrick-Ness,45,24
+Lisa Eldridge,46,52
+Rudy Gobert,47,26
+Khloe Kardashian,0,34
+Andrea Russett,1,23
+Lauren Jauregui,2,22
+Drake Bell,3,32
+Madison Haschak,4,18
+Chandler Riggs,5,19
+Ed Westwick,7,31
+Mitchell Hope,8,24
+Gabi Wilson,9,21
+Cocone Clayton,10,14
+Jo Frost,11,47
+Tobey Maguire,12,43
+Sam Claflin,13,32
+Bianca Del Rio,14,43
+TomSka,15,28
+Matthew Lewis,16,29
+Shannon Purser,17,21

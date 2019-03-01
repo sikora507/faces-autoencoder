@@ -1,0 +1,100 @@
+Barbara Eden,38,87
+Rik Smits,39,52
+Keith Moon,41,1946-1978
+Mara Teigen,43,24
+Andra,44,32
+Shelley Long,45,69
+Russell Reyes,46,20
+Rupert Grint,1,30
+Jamie Rose,2,21
+Payton Ackerman,4,21
+Sofia Richie,5,20
+Griffin Gluck,6,18
+Robin Packalen,7,20
+Vince McMahon,8,73
+Alyssa FamilyFunPack,9,12
+Chad Michael Murray,10,37
+Brittani Louise Taylor,11,35
+John Green,12,41
+David Brown,13,31
+Alex O&#039;Loughlin,14,42
+Justine Skye,15,23
+Nur Aisyah,16,18
+Arian Foster,17,32
+Dave Chappelle,18,45
+Maya Cumming,19,17
+Danica DeCosto,20,42
+Josh Chomik,21,26
+MommyOFive,23,35
+Tammy Morales,25,18
+Alessandra Kanellis,26,16
+Stephen Fry,28,61
+Zara Holland,29,23
+Marlee Matlin,30,53
+Madi Westbrooke,31,19
+Reggie Miller,32,53
+Kenny Baker,33,1934-2016
+Konstantin Hert,34,32
+Aloysius Pang,35,1990-2019
+Lucy Mecklenburgh,36,27
+Adam Blampied,37,31
+Sauli Niinisto,40,70
+Cody Strong,41,24
+Hideo Kojima,45,55
+China Anne McClain,0,20
+Blake Lively,2,31
+Christian Lalama,3,15
+Tray Bills,4,23
+Billy Ray Cyrus,5,57
+Marc Gomez,6,14
+Kel Mitchell,7,40
+Thomas Oliveira,8,25
+Devontae_Ballin,9,16
+Bryana Salaz,10,21
+Tim Burton,11,60
+Abraham Mateo,13,20
+Sean Connery,15,88
+Gene Simmons,16,69
+Rachael Ray,17,50
+Andrew Hussie,18,39
+TJ Black,20,27
+Alexander Skarsgard,21,42
+Skylar Healey,22,19
+Rachel Bilson,23,37
+Jeff Johnson,25,32
+Aaron Ash,26,27
+Shabazz Pbg,28,23
+Gunner Gumm,30,25
+Alexandra Burke,31,30
+Tom Hollander,32,51
+Michael Cohen,33,52
+Matthew Berry,34,20
+Donel Mangena,35,17
+Elvis Costello,36,64
+Ruben Beasley,37,19
+Lightshow,38,27
+Claudia Schiffer,41,48
+Ella Masters,42,30
+Rob Halford,43,67
+Christian LeBlanc,44,60
+Jonathan Togo,45,41
+Regis Philbin,46,87
+Dylan O&#039;Brien,0,27
+Ayla Woodruff,1,26
+Malak Watson,2,18
+Keke Palmer,3,25
+James Harden,4,29
+Chris Pine,5,38
+Macaulay Culkin,6,38
+Melissa McCarthy,7,48
+YBN Cordae,8,21
+Cassie Ventura,11,32
+Kyle Exum,13,20
+John Mulaney,14,36
+Thal\xc3\xada,15,47
+ModDaGod,16,25
+CollinTV,18,13
+Karen Sarahi Gonzalez,19,30
+Seven Craft,20,24
+Adriel Favela,21,26
+Brian Kelley,24,33

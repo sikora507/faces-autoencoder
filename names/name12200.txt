@@ -1,0 +1,100 @@
+Piemations,37,20
+Kaitlyn Siragusa,38,25
+Jak Roberto,39,25
+Ashy Bines,40,30
+Joe Lo Truglio,41,48
+John Dahl,42,33
+Auburn,43,28
+Gary Sanchez,45,26
+Kyla Centomo,46,26
+Rewinside,47,26
+Jake T. Austin,0,24
+Airionna Lynch,1,22
+Lil Baby,2,24
+Ethan Kelly,3,16
+Gavin Butler,4,15
+Amanda Seyfried,5,33
+Ruby Jay,6,14
+Ozzy Osbourne,7,70
+Gemma Styles,8,28
+Andy Grammer,9,35
+Tiffany Haddish,10,39
+Kiki Pepper,11,30
+Jenna Dewan,12,38
+Marques Brownlee,13,25
+Trina,15,40
+Holly Marie Combs,16,45
+Josh Lewis,18,17
+Leila Bauer,19,15
+Motoki Maxted,20,22
+Olivia,21,14
+Julianne Moore,22,58
+Bridget Satterlee,23,21
+Blair Walnuts,25,23
+Brendan Fraser,26,50
+Pietro Boselli,27,30
+Dascha Polanco,29,36
+Lily Weber,30,17
+Lowkey.monae,32,15
+Swift,33,24
+Barry Kramer,34,29
+Mickey Lacoste,35,27
+Anna Chlumsky,36,38
+Nosaj,38,26
+Justricia,40,16
+Sarah Fritz,41,16
+Andy Williams,43,1927-2012
+Keegan Connor Tracy,46,47
+Jay-Z,0,49
+Mia Fizz,3,14
+Tyra Banks,4,45
+Ellie Hiyar,5,15
+Josh Killacky,7,23
+Brett Barrett,8,22
+Rebecca Parham,9,31
+Orlando Brown,11,31
+Layton Greene,12,20
+Johann Vera,13,23
+Angel Rice,15,20
+Scarlett Estevez,16,11
+Dillon Baheri,17,19
+Marisa Tomei,18,54
+Daniela Alfaro,19,19
+Mary LifeWithBrothers,20,13
+Jeff Bridges,21,69
+Ryan Dungey,22,29
+Arinabieber,23,18
+Chinx Drugz,24,1983-2015
+Ruru Madrid,25,21
+Giovanna Chaves,26,17
+Ronnie Ortiz-Magro,27,33
+Joshua Osei,28,31
+Nick Vujicic,29,36
+Mario Maurer,30,30
+Scott Rogowsky,31,34
+Aiden Grimshaw,32,27
+Sophie Pollono,33,14
+Sophia Pashow,34,9
+Rarsclart Marnie,35,19
+Chris Ray Maldonado,36,25
+Aniscandy,37,18
+Huntyr Duckett,40,19
+EJDaGoat,41,17
+Samuel Callard,42,18
+Nastassia Ponomarenko,44,19
+Fred Armisen,46,52
+Yeng Constantino,47,30
+Annie LeBlanc,0,14
+Haley Pham,2,18
+Diego Vel\xc3\xa1zquez,3,17
+Alexandra Beaton,6,24
+Conan Gray,7,20
+Ava Kolker,8,12
+Sam Dezz,9,17
+Lauren London,11,34
+Darren Fizz,12,35
+Frankie Muniz,13,33
+Maddie Poppe,15,21
+Ashley Nicole,16,19
+Keri Hilson,17,36
+Sophie Simnett,18,21

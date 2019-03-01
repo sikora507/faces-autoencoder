@@ -1,0 +1,100 @@
+MC Lyte,47,48
+Josh Hutcherson,0,26
+Hugh Jackman,1,50
+Darci Lynne Farmer,2,14
+Kelli Maple,4,17
+Tyler Blackburn,5,32
+Iris Apatow,6,16
+Erica Dixon,9,35
+Jeffrey Miller,10,18
+Lilly Kruk,11,13
+Dusty Rhodes,12,1945-2015
+Samia Ali,13,4
+Vena Excell,14,27
+Nathaniel Bandy,15,25
+Dominic Thomas,16,27
+Jessica Shannon,17,22
+Kirk Cameron,18,48
+Tony Cavalero,21,35
+Kane Foster,22,25
+Katie Piper,24,35
+Millie Brown,25,32
+Raymond Ochoa,26,17
+Bode Miller,34,41
+Darby Walker,35,20
+SemajTV,36,21
+Alejandra Costello,37,34
+Layla Crawford,40,14
+Malcolm Drummer,41,27
+Jimboy Martin,42,21
+Jimmy Galvan,43,17
+Seo Kang-joon,45,25
+Tristan Waite,46,20
+Ferdia Walsh-Peelo,47,19
+Taylor Alesia,0,22
+Park Jimin,1,23
+Caleb McLaughlin,2,17
+Anastasia Kingsnorth,3,18
+Jennifer Pappas,4,25
+Ashanti,5,38
+Tiffany Trump,6,25
+Avneet Kaur,7,17
+Jerry Rice,8,56
+Kate Walsh,9,51
+Tisha Campbell-Martin,10,50
+Mia Armaj Bennett,11,18
+Margaret Thatcher,12,1925-2013
+Kevin Clifton,13,36
+Sacha Baron Cohen,14,47
+Kim Vanderhee,15,35
+Bill Klein,16,44
+PJ Dreams ASMR,17,19
+Paul Pierce,18,41
+Nancy Kerrigan,19,49
+iLette Hill,20,17
+Paul Simon,21,77
+Mathi Sellanes,22,23
+Justin Rod,23,22
+Diego Dominguez,24,27
+Marie Osmond,25,59
+Noah Crawford,26,24
+Kapri Rich,27,9
+Mingus Lucien Reedus,29,19
+Maddox Null,30,3
+Kate Alberts,33,14
+Layla Spring,34,17
+Ambree Orgill,35,8
+Jerry Jones,37,76
+Alexandria Ocasio-Cortez,38,29
+Jesse Boyle,39,26
+Billionaire Black,41,25
+Ben J,42,27
+Rhett Akins,44,49
+Kelly Preston,47,56
+Rowan Blanchard,0,17
+Jelle Van Vucht,1,22
+Usher,2,40
+Talisa Tossell,3,23
+Andrew Gregory,4,19
+Shyla Walker,5,21
+Ralph Lauren,6,79
+Tyler Christie,9,23
+Michelle Ferre,10,25
+Roger Moore,11,1927-2017
+Captain Nintendo Dude,13,21
+Max Thieriot,14,30
+Kayani B,16,17
+Stacy Keibler,17,39
+Sir Cliff Richard,18,78
+Lourdes Ciccone Leon,21,22
+Stephen A. Smith,22,51
+Harmony Smith,23,32
+Mark-Francis Vandelli,24,28
+Matteo Sbandi,25,17
+Caleb Hyles,27,27
+Sherlyn,28,33
+Shona McGarty,29,27
+Chloe Lutosky,30,14
+Colin Furze,31,39
+James II,32,1633-1701
+Mekai Curtis,33,18

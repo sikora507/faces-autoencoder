@@ -1,0 +1,100 @@
+Andreas Deja,47,61
+Daniel Seavey,0,19
+Quavo Marshall,1,27
+Gabriel Mathis,2,19
+Caleb Burton,3,18
+Marvin Gaye,5,1939-1984
+Sophie Reynolds,7,19
+Crazy Nate,8,32
+Karlous Miller,9,35
+Yung Joc,10,35
+Drew Van Acker,14,32
+Pattie Mallette,15,42
+Nikki Perkins,16,28
+Michael Fassbender,17,41
+Bethany Joy Lenz,18,37
+Bobby Bones,19,38
+Traci Braxton,22,46
+Tarren Schrader,23,15
+Luca Fersko,24,20
+Kapil Sharma,25,37
+Clark Gregg,26,56
+Jack Moore,27,15
+Roselyn Sanchez,28,45
+Adam Rodriguez,30,43
+Christopher Meloni,31,57
+Tiara Hodge,32,29
+Greyson Carpenter,33,4
+Sarah Therese,35,23
+Hans Christian Andersen,36,1805-1875
+Alec Guinness,40,1914-2000
+Deedee Magno,41,43
+Ken LaBrant,42,50
+Ashley Louise James,44,31
+Woojin Lee,45,15
+Roscoe Dash,46,28
+Charlemagne,47,742-814
+Brennen Taylor,0,23
+Charles Gitnick,1,16
+Young M.A,2,26
+Kristopher London,3,25
+Paris Jackson,4,20
+Eddie Murphy,5,57
+Christopher Romero,6,17
+Ivey Meeks,7,16
+Hayley Kiyoko,8,27
+Amanda Bynes,9,32
+Dion Yorkie,10,22
+Derek Gerard,11,23
+Alec Baldwin,12,60
+Will Grier,13,23
+Wade Barnes,14,29
+Leona Lewis,16,33
+Jane Goodall,18,84
+Kiana Brown,19,21
+Sarah Jeffery,20,22
+Cobie Smulders,21,36
+Brianna Joy White,22,20
+Elsie Fisher,25,15
+Tori Sterling,27,20
+Adam Scott,28,45
+Taylor Scott,29,15
+Chrissie Fit,30,34
+Fizuliyat,31,30
+Adam Ladell,32,19
+Sam Kiszka,33,19
+Natasha Negovanlis,34,28
+Becca Kufrin,37,28
+Aries Spears,39,43
+Nigel Farage,40,54
+Dy&#039;mond Charleston,42,17
+Debbie Soon,43,21
+Sofia Boutella,45,36
+Jennie Garth,46,46
+Hayden Summerall,0,13
+Hali&#039;a Beamer,1,13
+Austin Mahone,2,22
+Robert Downey Jr.,3,53
+Ricky Dillon,4,26
+Manny Gutierrez,5,27
+Jamie Lynn Spears,6,27
+Heath Ledger,7,1979-2008
+Lisa Schwartz,8,35
+Todrick Hall,10,33
+Daniel Lara,11,17
+Maya Angelou,12,1928-2014
+Jessica Serfaty,13,27
+Graham Norton,17,55
+James Roday,18,42
+David Blaine,19,45
+Stephen Mulhern,20,41
+Jen Ruggirello,21,25
+Eric Andre,22,35
+Chris O&#039;Neal,23,24
+Jill Scott,24,46
+Natasha Lyonne,25,39
+Alexa Nikolas,26,26
+Lisa Ray,27,46
+Jack Way,28,19
+David Cross,31,54
+Abra Cadabra,32,20

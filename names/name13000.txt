@@ -1,0 +1,100 @@
+Andrea Fabric,35,25
+Alexa Luria,36,25
+Helena Christensen,37,50
+Lexie Grace,39,20
+Tish Blake,40,18
+Rob Mariano,42,43
+GaGa,43,34
+Eric Gordon,44,30
+Alastair Cook,46,34
+Felix Biernat,47,22
+Andy Biersack,0,28
+Jade Thirlwall,1,26
+Jared Leto,2,47
+Prodigy,3,22
+Cloakzy,4,24
+Kit Harington,5,32
+Isac Elliot,7,18
+Dana Alexa,8,29
+McKenzie Morales,9,16
+Natalie Nunn,10,34
+Eden Sher,11,27
+Devin Ramirez,12,15
+Samantha Boscarino,14,24
+Austin Corini,15,23
+Jose Ayala,16,25
+Ashley Ortega,17,20
+Hugo Lloris,18,32
+Aaron Ramsey,19,28
+Mao Tse Tung,20,1893-1976
+Lars Ulrich,21,55
+Luke Birch,24,21
+Kiya Juliet,25,17
+Chris Daughtry,26,39
+Nileseyy Niles,27,21
+Beth Behrs,28,33
+Corbin Scott,29,29
+Lacey Claire,30,22
+Hobbie Stuart,32,28
+Cece Bell,33,48
+Philip Green,34,27
+Angela Vanity,35,22
+Saphira Howell,36,21
+Conor Mason,38,26
+Leanna Powell,39,8
+Koryn Hawthorne,40,21
+Lily Robertson,42,16
+Thomas Powell,47,27
+Tal Fishman,0,22
+Kamri Noel McKnight,1,16
+Kristina Pimenova,2,13
+Timoth\xc3\xa9e Chalamet,3,23
+Salman Khan,4,53
+Hayley Williams,6,30
+Sydnastical,7,15
+Josh Leyva,8,28
+Bill Goldberg,9,52
+Peanut,10,17
+Holiday Mia Kriegel,11,19
+Chyna,12,1970-2016
+Emilie De Ravin,13,37
+Chloe Channell,14,17
+Heather O&#039;Rourke,17,1975-1988
+Travie Williams,18,25
+Chloe Bridges,19,27
+Peanut,21,30
+Black M,22,34
+Tyler Layne,24,23
+Ashley Deshaun,25,24
+Shay Mooney,26,27
+Savannah Guthrie,28,47
+James Cassells,29,29
+Yasserstain,30,24
+Jamaal Charles,31,32
+Candice Kirby,32,23
+Alexandria Morgan,35,25
+Hailee,36,18
+Olivia Cooke,38,25
+Ok Taecyeon,39,30
+Jeffufah,40,21
+Morten M\xc3\xbcnster,45,21
+Thea Trinidad,47,28
+Nash Grier,0,21
+Stan Lee,1,1922-2018
+John Legend,2,40
+Emery Kelly,5,21
+Jim Chapman,6,31
+Danny Edge,7,21
+Denzel Washington,8,64
+Kaylyn Slevin,9,18
+Miles Brown,10,14
+Maggie Smith,11,84
+David Archuleta,12,28
+Kingsley,14,28
+Kinsley White,15,13
+Larissa Manoela,16,18
+Sienna Miller,17,37
+SilentDroidd,18,24
+Otto Wood,19,28
+Madison De La Garza,21,17
+TJ Hunt,22,24

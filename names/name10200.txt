@@ -1,0 +1,100 @@
+Analicia Chaves,16,29
+Kristen Scott,17,14
+Steve Burns,18,45
+Roary Raynor,19,27
+Young Bae,20,34
+Jacob Batalon,21,22
+Stan Gerards,22,22
+Derek DiScanio,23,26
+Brandon Routh,26,39
+Jodelle Ferland,29,24
+Marie Kondo,30,34
+Sean Lennon,32,43
+Gok Wan,33,44
+Claudia Alende,34,25
+Guillermo del Toro,35,54
+Tony Shalhoub,36,65
+Dylan Schneider,37,19
+Nicky Byrne,39,40
+Colin Donnell,41,36
+Zachery Ty Bryan,42,37
+JP Lambiase,43,36
+Jada Everon,44,20
+Julianne Kissinger,45,26
+JakesAlright,47,17
+PontiacMadeDDG,0,21
+Thomas Kuc,1,16
+Fiona Frills,2,15
+Ben Phillips,3,26
+Marina Diamandis,4,33
+Vivian Hicks,5,15
+Sarah Carpenter,6,22
+Mya,7,39
+October Gonzalez,8,38
+Mario Lopez,9,45
+Matthew Meese,10,35
+Brett Favre,11,49
+Dan Stevens,12,36
+Dale Earnhardt Jr.,13,44
+Una Healy,14,37
+Bae Suzy,15,24
+Nash Aguas,16,20
+Maggie Elizabeth Jones,17,15
+Lali Esp\xc3\xb3sito,18,27
+Lzzy Hale,19,35
+Rose McIver,20,30
+Jodi Benson,22,57
+Andrew McCutchen,23,32
+Kim Thai,24,25
+Bai Ling,25,52
+Charity Grace LeBlanc,26,30
+Samantha J,27,22
+Chaz Smith,28,24
+Andrea Navedo,29,41
+Aedin Mincks,30,18
+Kyal Legend,31,21
+Xherdan Shaqiri,32,27
+Victoria Mills,34,34
+Aimee Teegarden,35,29
+Jacob Williams,36,30
+Zainab Balogun,37,29
+Marjorie Harvey,39,54
+Diandra Delgado,40,23
+David Lee Roth,41,64
+Wendi McLendon-Covey,42,49
+Gabrielle Aplin,43,26
+Kassem Gharaibeh,45,35
+Carla Underwater,47,12
+Cardi B,0,26
+Rhett McLaughlin,1,41
+Brandon Flynn,3,25
+Georgia Productions,5,19
+Hayden Byerly,8,18
+Amitabh Bachchan,9,76
+Matt Bomer,10,41
+Liam Ferrari,11,23
+John Luke Robertson,12,23
+Luke Perry,14,52
+Maddison Bush,16,21
+Lou Teasdale,17,35
+Bradley James,18,35
+Rikishi,20,53
+Emily Deschanel,22,42
+Michelle Trachtenberg,23,33
+Dawn French,25,61
+Hayley Erbert,26,24
+iamtherealtaj,27,21
+Johannah Duggar,28,13
+Walter Bowser,29,17
+Henry Lau,30,29
+Amr Diab,31,57
+Destiny Moore,32,33
+Steve Young,33,57
+Fred Trump,34,1905-1999
+Mascha Feoktistova,35,32
+Jax Girard,36,11
+Joan Cusack,39,56
+Mike Conley Jr.,41,31
+Bobby Charlton,42,81
+Daryl Hall,43,72
+Saberspark,44,30

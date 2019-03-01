@@ -1,0 +1,100 @@
+Jack Swagger,25,36
+Saoirse Alicia Behzadi,27,19
+Nivea,28,36
+Myoui Mina,30,21
+Dean Stobbart,31,37
+Luis Mariz,33,18
+Luis Ruiz,34,13
+Dominique Provost-Chalkley,35,28
+Faye Gulini,36,26
+Rashnu,37,27
+Jack Edwards,39,61
+Aziz Shavershian,40,1989-2011
+Isaac Carew,42,32
+Jeff Lewis,43,48
+Nena,44,58
+Finn Jones,46,30
+Lake Bell,47,39
+Big Sean,1,30
+William Franklyn-Miller,2,14
+Alex Dorame,3,20
+Aretha Franklin,4,1942-2018
+Elton John,5,71
+Dylan Summerall,6,19
+Kaelyn Petras,7,30
+Sarah Jessica Parker,8,53
+Yung Poppy,9,24
+Taylor Nicole Dean,10,21
+Kyle Lowry,11,32
+Winter Ramos,13,39
+Ryan Lewis,14,30
+Danica Patrick,16,36
+Grace Niccole,17,16
+Jaclyn Glenn,18,30
+Jenny Slate,19,36
+Alyssa Holum,20,15
+Justin Prentice,21,24
+Alannized,22,20
+Katharine McPhee,23,34
+Aly Michalka,25,29
+Bryan Bunny Franco,27,24
+Jeddah Navalua,29,36
+Reggie Fils-Aime,30,57
+Lee Pace,31,39
+Kate DiCamillo,32,54
+Sean Faris,33,36
+Hunter Geurink,34,21
+Matt Vinh Nguyen,37,29
+Shannon Beador,40,54
+Chris Powell,41,38
+Juvenile,44,43
+Tess Ward,45,28
+Elizabeth Lail,46,26
+Danielle Bregoli,0,15
+Sam Pepper,2,29
+Gavin Magnus,3,11
+Diana Ross,4,74
+Keira Knightley,6,33
+Eric Allan Kramer,8,56
+Steven Tyler,10,70
+Jonathan Groff,11,33
+Xiumin,12,28
+Kenny Chesney,13,50
+Von Miller,14,29
+Nina Agdal,16,26
+Lucas Graham,17,17
+Louise Thompson,18,28
+Lilla Crawford,19,17
+Jay Sean,20,37
+Emily Tosta,21,20
+T.R. Knight,22,45
+Eric Bellinger,23,32
+Dylan Ratzlaff,24,17
+Leonard Nimoy,25,1931-2015
+Leslie Mann,26,46
+Ciara Wilson,28,17
+Sara Jean Underwood,29,34
+Jennifer Grey,32,58
+Paige VanZant,33,24
+Payte Parker,34,19
+Chris Tolleson,36,28
+Harrison Houde,38,22
+Martin Short,39,68
+Nancy Pelosi,41,78
+IRezi,42,18
+James Caan,43,78
+Larry Page,46,45
+Mariah Carey,0,48
+Jessie J,1,30
+JesserTheLazer,2,19
+Fergie,3,43
+Lisa Manoban,4,21
+Brenda Song,6,30
+Christine Sydelko,7,24
+Nique,8,18
+Manuel Neuer,9,32
+Kirsten Collins,12,24
+Benji Travis,13,34
+Tilly Mills,14,7
+Halle Bailey,15,18
+Buster Posey,16,31

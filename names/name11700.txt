@@ -1,0 +1,100 @@
+Meg Ryan,16,57
+ItzArya,18,23
+Lil&#039;mo,19,40
+Cleo Massey,20,25
+Stephen Meek,22,30
+Gabrielle Elyse,23,22
+Madison Horcher,24,14
+Allison Janney,25,59
+Jeannie Ortega,27,32
+Sarah Rae Vargas,28,30
+Evgenia Medvedeva,29,19
+Kerri Strug,30,41
+Ryan Trout,31,19
+Jayden Seeley,32,26
+Billy Currington,33,45
+Galen Hooks,34,33
+Sjana Earp,36,24
+Brian Dales,37,29
+Grayson Coats,38,25
+Ryan Howard,40,39
+Jason Scott Lee,45,52
+Zeena Schreck,46,55
+Michael Clifford,0,23
+Salice Rose,2,24
+Oliver Sykes,3,32
+Madisyn Shipman,4,16
+Ann Marie Slater,5,23
+Jaxon Bieber,6,9
+Khoa Nguyen,8,27
+Marija \xc5\xbde\xc5\xbeelj,9,19
+Jeremy Jordan,10,34
+Joe Biden,11,76
+Eleonora Gaggero,12,17
+Gianna Newborg,13,19
+Jordan Comolli,14,21
+Olga Kay,15,36
+Cody Linley,16,29
+Dierks Bentley,17,43
+Rodger Bumpass,18,67
+Josh Turner,19,41
+Connie Talbot,20,18
+Ming-Na Wen,22,55
+Kimberley Walsh,25,37
+Sean Michael,27,30
+Joel McHale,28,47
+Sennytumbles,30,15
+Tamara Rapp,32,24
+Callie Thorne,34,49
+Dominique Dawes,35,42
+Lorenzo Doryon,36,24
+Teoman,37,51
+Goodluck Jonathan,38,61
+Dabo Swinney,39,49
+Aaron Yan,40,33
+Tiara Rapp,41,24
+Demetrius Shipp Jr,43,30
+Amelia Rose Blaire,45,31
+Joe Walsh,47,71
+Colleen Ballinger,0,32
+Nikki Bella,1,35
+Conor Maynard,2,26
+Brie Bella,3,35
+Carly Rae Jepsen,4,33
+Moose,5,21
+Simplynessa15,6,22
+Mighty Neicy,7,16
+Ella Elbells,8,18
+Cameron Field,9,18
+Hunter Hill,10,22
+Nick Kolcheff,11,28
+Isabel May,12,18
+Sean Schemmel,14,50
+Matt Watson,16,35
+Levi Jones,19,21
+Goldie Hawn,21,73
+Michael Strahan,22,47
+Sarah Reasons,23,18
+Lyca Gairanod,24,14
+Jesus Navas,25,33
+Jena Malone,27,34
+Jordan Fleischmann,28,15
+Maya Gutowski,30,20
+Maggie MacDonald,31,22
+Ken Block,33,51
+Alex James,34,50
+Troy Aikman,35,52
+Ken Griffey Jr.,36,49
+Nicollette Sheridan,39,55
+Anna Faith,41,23
+Risa Dressler,42,42
+Isaiah Firebrace,44,19
+Cameran Eubanks,45,35
+Elizabeth Ruiz,47,27
+Baby Ariel,0,18
+Hailey Bieber,1,22
+Dominic Tracy,2,15
+Cody Ko,3,28
+Scarlett Johansson,5,34
+Meghan McCarthy,6,27
+Trevor Tordjman,7,23

@@ -1,0 +1,100 @@
+Janina Uhse,34,29
+Albert Johnson,37,1974-2017
+Jade Jolie,38,32
+Sof\xc3\xada Moreno Marco,40,14
+Darren Young,41,35
+James K. Polk,42,1795-1849
+Josh Wiggins,44,20
+Karamo Brown,45,38
+Liam Obergfoll,47,22
+Kendall Jenner,0,23
+Brennan Donnelly,1,16
+Anna Saccone-Joly,2,31
+Ella Mai,3,24
+Joseline Hernandez,4,32
+Flau&#039;jae,5,15
+Nav,6,29
+Jesse Fangs,7,31
+Colin Kaepernick,8,31
+Yasmin Caramanli,9,16
+Moe Sargi,12,31
+Roseanne Barr,13,66
+Gabe Newell,14,56
+Cameron Lynn,15,31
+Jacob White,16,20
+Alex Demartino,17,25
+Elizabeth Smart,18,31
+Chloe Sims,19,36
+Jamie Laing,20,30
+Carson Rowland,21,21
+Tre De Rego,23,16
+Tom Mann,24,25
+Angus McLaren,25,30
+Jae Cruz,26,18
+Dolph Lundgren,27,61
+Chaz Williams,28,25
+Aria Wallace,29,22
+Bria Kam,30,32
+Kloe,31,22
+Ms Jacky Oh,32,28
+Anna Wintour,33,69
+Cameron J. Henderson,34,27
+Polo Morin,35,28
+Ren,40,23
+Alisa Pyy,42,18
+Sean Combs,0,49
+TOP,1,31
+Jessa Duggar,2,26
+Matthew McConaughey,3,49
+Dez Bryant,4,30
+Ralph Macchio,5,57
+Destiny Marie,6,16
+Steven Ogg,8,45
+Kathy Griffin,9,58
+Jean-Luc Bilodeau,10,28
+Danielle Mansutti,12,24
+Rachelle Maust,13,20
+Jeff Probst,14,56
+Grace Foley,15,16
+Sheikh Akbar,16,25
+Jordan Smith,17,25
+Tony Abbott,19,61
+Bethenny Frankel,20,48
+Raquel Santiago,21,28
+Jeff Kaplan,22,46
+Rody Eynas,24,19
+Doris Roberts,25,1925-2016
+Yoatzi Castro,26,23
+Lyna Perez,27,26
+Louise Redknapp,28,44
+Moira Dela Torre,32,25
+Stevie Wynne Levine,33,31
+Kiana Madeira,37,26
+Samantha Smith,38,49
+Laura Bush,40,72
+Darcy Rose Byrnes,41,20
+Larissa Aurora,42,34
+Chrysan Lee,43,23
+Devin Hester,45,36
+Chad Seagraves,46,20
+Markie Post,47,68
+Odell Beckham Jr.,0,26
+Kris Jenner,1,63
+Meredith Foster,2,23
+Paige Mackenzie,3,16
+Sal Vulcano,4,42
+Kevin Jonas,5,31
+Virat Kohli,6,30
+Lydia Kenney,7,23
+AJ Pritchard,8,24
+Alex Hook,9,17
+Teddie Smith,10,11
+xChocoBars,13,24
+LPShannah,14,21
+Keala Settle,15,43
+Bryan Adams,16,59
+Luke Hemsworth,17,37
+Daisy Michelle,18,24
+Angelica Perez,19,27
+Chris Klemens,20,25
+Alondra Ortiz,21,22

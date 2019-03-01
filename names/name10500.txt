@@ -1,0 +1,100 @@
+Max Irons,27,33
+Ziggy Marley,28,50
+Holly Holm,31,37
+Angel Parker,32,38
+Ryan Smith,33,18
+FaZe Replays,35,22
+Nathan Piland,36,23
+Ariana Zolciak,37,17
+Bea Alonzo,38,31
+Tristan Jones,40,21
+GlamazonTay,43,26
+Keerthy Suresh,45,26
+Margot Kidder,46,1948-2018
+Zac Efron,0,31
+Ricky Banks,1,27
+Tyler Posey,2,27
+Breland Emory,4,31
+Hailey Sani,6,18
+Levi Morales,8,3
+Mark Ferris,9,28
+Lindsey Vonn,12,34
+Jeremy Johnston,14,36
+Jean-Claude Van Damme,15,58
+Jordan Calloway,17,28
+Baby Bash,19,43
+Toby Regbo,21,27
+Damaris Duran,24,19
+Bristol Palin,25,28
+Jacy Rodriguez,26,28
+Lizzy Jones,27,24
+Trvpgirldallas,28,19
+Jared Baird,32,17
+Brittney Griner,33,28
+MyKesha Smith,34,26
+Emily Tube,35,5
+Mr. Cashier,37,29
+Erin Moran,38,1960-2017
+Sassy,40,28
+Paul Elliott,41,71
+Global Papi,42,18
+Freida Pinto,43,34
+Nadji Jeter,47,22
+Sam Pottorff,0,23
+Lil Durk,1,26
+Arzaylea,2,24
+Maria Shabalin,3,16
+Tanner Zagarino,4,20
+BluesDank,5,20
+Gabby Murray,7,17
+Floyd Mayweather Sr.,8,66
+Michael Gambon,9,78
+Sean Price,10,19
+Trey Parker,12,49
+Hunter King,13,25
+Jose Bautista,14,38
+Sandi Crystal Ball,15,30
+Federico Russo,17,21
+Rebecca Ferguson,18,35
+Colton Dixon,19,27
+Lea Goldstein,20,16
+Enca Haxhia,22,23
+Hussain Asif,23,25
+Ella Horan,24,14
+Katie Douglas,25,20
+Kodakcurlz,26,17
+Gillian Jacobs,27,36
+Ashlyn Harris,29,33
+Art Parkinson,31,17
+Kim Ji-won,32,26
+Nekhi,33,14
+Desmond Harrington,34,42
+John Lithgow,35,73
+Seth Everman,36,25
+Margot Ramsey,38,14
+Evander Holyfield,39,56
+Josh Wolf,41,44
+Sunny Deol,42,62
+Jon Favreau,44,52
+Ty Pennington,46,54
+Kristyn Cheyenne Floyd,47,26
+NBA YoungBoy,0,19
+Alex Guzman,1,17
+Snoop Dogg,2,47
+Matt Steffanina,3,32
+John Krasinski,4,39
+Candice Swanepoel,5,30
+Jess Glynne,6,29
+Cyn Santana,8,26
+Tom Petty,9,1950-2017
+Ronnie Banks,10,21
+Viggo Mortensen,15,60
+Eastside Ivo,16,23
+Molly Thompson,17,19
+Dannii Minogue,21,47
+Malin Andersson,26,26
+Zhenwei Wang,27,23
+Nargis Fakhri,28,39
+Mia McNiff,29,17
+Mugen Rao,30,23
+Alana Smith,31,18

@@ -1,0 +1,100 @@
+Pitbull,3,38
+Skrillex,4,31
+Kelly Kelly,6,32
+Drew Brees,7,40
+Shane McMahon,9,49
+Mariah Folkerts,10,28
+A1saud,11,22
+Rohan Kohli,14,20
+Regina King,16,48
+Evan Hufferd,17,20
+Stephen Bear,18,29
+Andrew Curtis,19,17
+Claudia Winkleman,23,47
+Chad Lowe,26,51
+Marc Bartra,27,28
+Evie Dolan,28,15
+Jefri Nichol,29,20
+Gavin Becker,30,20
+Karissa Pukas,31,28
+JR Munoz,32,33
+Sanai Victoria,33,12
+Tsu Surf,34,29
+Vini Uehara,35,29
+Eric Dier,36,25
+Paulina Vega,37,26
+xLinkTijger,38,23
+Young Dro,39,40
+James Nesbitt,40,54
+Greg Inglis,41,32
+Rachelle Swannie,42,24
+Matt Holliday,43,39
+Benjamin Agosto,44,37
+Eddie Cahill,46,41
+Ruby Rube,0,13
+Lin-Manuel Miranda,1,39
+Aaliyah,2,1979-2001
+Jennie Kim,3,23
+Graser,4,22
+Gabi Butler,5,21
+James May,6,56
+Kate Moss,7,45
+Cassey Ho,8,32
+Sidharth Malhotra,9,34
+Alyssa Edwards,10,39
+Joe Flacco,11,34
+David Alvarez,12,27
+January So,13,33
+Debbie Allen,15,69
+Max Joseph,17,37
+Sade,19,60
+Jack Merridew,21,26
+Albert Pujols,22,39
+Curran Walters,23,21
+JeLaminah Lanier,24,29
+Katie Maloney,29,32
+Nicklas Bendtner,30,31
+Vijay Sethupathi,32,41
+Kiesa Ellestad,33,30
+Jonael Santiago,36,15
+Greg Page,37,47
+ChristianAdamG,38,21
+John Carpenter,40,71
+Connor Weyer,41,17
+Morgan Evans,44,28
+Shanley McIntee,45,29
+Amanda LaCount,46,18
+Charles Alatorre,47,26
+Jake Paul,0,22
+Michelle Obama,1,55
+Muhammad Ali,2,1942-2016
+Adam Dahlberg,3,26
+Jim Carrey,4,57
+Steve Harvey,5,62
+Nate Maloley,6,24
+Betty White,7,97
+Calvin Harris,8,35
+Dwyane Wade,10,37
+Quenlin Blackwell,11,18
+Benjamin Franklin,12,1706-1790
+Ray J,13,38
+Jordan Houston,14,19
+Marnie Simpson,15,27
+Elisa Maino,16,16
+Sebasti\xc3\xa1n Villalobos,18,23
+Awsten Knight,19,27
+JT Church,21,13
+Nile Wilson,22,23
+Lil Jon,23,48
+AlmostCoolMom,24,55
+Tiesto,25,50
+Kid Rock,26,48
+Angela Vazquez,27,18
+James Earl Jones,28,88
+DennisASMR,29,17
+Maury Povich,31,80
+Lucy Boynton,32,25
+Nines,33,29
+Sharaya J,34,35
+Maksim Chmerkovskiy,35,39
+January Gessert,36,36

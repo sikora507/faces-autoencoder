@@ -1,0 +1,100 @@
+Mike Korzemba,18,26
+Dalton Kirkley,21,15
+Nikki Sixx,22,60
+Arya,23,38
+Linda Dong,24,26
+Mo&#039;Nique,25,51
+Pastel.Fruit,27,16
+Javi Marroquin,28,26
+Yalitza Aparicio,29,25
+Jazmin Gonzalez,30,23
+Vampira,32,1922-2008
+Ben Shephard,34,44
+Karla Souza,36,33
+Gabz,38,20
+Mos Def,39,45
+Antony Di Francesco,42,21
+Anthony Russell,44,28
+Hamish Blake,46,37
+MrCrainer,0,24
+Sky Katz,1,14
+Lincoln Melcher,2,15
+Lucas Jade Zumann,3,18
+Frank Sinatra,4,1915-1998
+Brooke Sanchez,5,16
+Adin Kolansky,6,23
+Kimberly Loaiza,7,21
+Devyn Nekoda,8,18
+Hila Klein,9,31
+Madchen Amick,10,48
+Dawin Polanco,12,28
+Austin Jones,14,26
+Shy Glizzy,15,26
+Kaylor Keeling,16,19
+Rajinikanth,18,68
+Regina Hall,19,48
+Mayim Bialik,20,43
+Kate Todd,21,31
+Seungri,22,28
+Amanda Trieschman,23,17
+Bob Barker,24,95
+GamingMermaid,26,28
+WhosChaos,27,24
+Jennifer Connelly,28,48
+Dionne Warwick,30,78
+Tommy Smith,32,15
+Jaime Lorente Lopez,35,27
+Miguel Bernardeau,36,22
+Bill Nighy,38,69
+Kristen Leanne,39,30
+Haley Letter,41,25
+Anna Briand,42,19
+Zaydaleigh,44,18
+Nick Klokus,47,21
+Taylor Swift,0,29
+Maverick Baker,1,18
+Joseph Garrett,2,28
+Jamie Foxx,3,51
+Maisy Stella,5,15
+Dick Van Dyke,6,93
+Sarah Ingham,8,33
+Andree Bonifacio,9,16
+NeNe Leakes,10,51
+Zabdiel De Jesus,11,21
+RageElixir,13,22
+Don Panton,14,34
+Harley Bird,15,17
+Nick Camryn,16,17
+Mason Coutinho,17,14
+Tom DeLonge,19,43
+Cody Calafiore,20,28
+Mina Oh,22,31
+Jose Zuniga,25,24
+Irelynn Ryan,27,15
+Emmanuel Balogun,28,20
+Rickie Fowler,30,30
+Alyssa Carswell,33,30
+Zahra Faiha,34,19
+Inscope21,35,24
+Zach Drapala,37,29
+Katherine Schwarzenegger,38,29
+Nick Roux,41,28
+Christopher Plummer,42,89
+Santi Cazorla,43,34
+J \xc3\x81lvarez,44,35
+Ashley Gosiengfiao,46,29
+Vladimir Tarasenko,47,27
+Everleigh Soutas,0,6
+Offset,1,27
+Vanessa Hudgens,2,30
+Tori Kelly,4,26
+Joshua Rush,5,17
+Brandon Arreaga,6,19
+Alex Gaskarth,7,31
+Mason Disick,8,9
+Brianna Renee,9,21
+Charli Elise,10,14
+Benji Krol,11,18
+Mike Fuentes,13,34
+Stefflon Don,14,27
+Miranda Hart,16,46

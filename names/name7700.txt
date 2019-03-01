@@ -1,0 +1,100 @@
+Kevin Smith,32,48
+Wes Craven,34,1939-2015
+Cai Xukun,35,20
+Miguel Alves,36,18
+Keyaira Hamilton,38,28
+Sam Worthington,40,42
+Jallow,41,19
+Paia Lee,42,20
+Edward Furlong,43,41
+Tom Brady,0,41
+Grav3yardgirl,1,33
+John Gabbana,2,22
+Landry Bender,3,18
+Brandon Rogers,4,30
+Matt Haag,5,26
+Sean Dolan,6,19
+James Hetfield,8,55
+Martha Stewart,10,77
+Sean Fujiyoshi,11,27
+D.R.A.M.,12,30
+Cozi Zuehlsdorff,13,20
+Ryan Lochte,14,34
+Evangeline Lilly,15,39
+Jukka Hilden,17,38
+Devon Lee Carlson,18,24
+Michael Ealy,19,45
+Victor Pope Jr.,21,25
+Ashley Kelsey,22,32
+Lisa Ann Walter,23,55
+Bexey Swan,24,22
+Julia Tomasone,25,20
+Skye Raae,26,21
+Masahiro Sakurai,27,48
+DC The Don,29,19
+Kristie Ray,30,47
+Lucie Fink,31,26
+Jourdan Dunn,32,28
+Tony Bennett,33,92
+Isaiah Washington,34,55
+Adrian Gee,35,25
+Melissa Ponzio,37,46
+Dominic Kline,38,16
+Paxton Berry,40,18
+Tiona Fernan,42,20
+Hannah Simone,43,38
+Martin Sheen,44,78
+JuliesReborns,46,18
+Barack Obama,0,57
+Cole Sprouse,1,26
+Dylan Sprouse,2,26
+Meghan Markle,3,37
+Toireasa McGuire,5,18
+Kira Girard,7,37
+Lottie Tomlinson,8,20
+Meghan Rienks,9,25
+Jessika the Prankster,10,15
+Rich Dollaz,11,43
+Jackie Aina,13,31
+Nathaniel Buzolic,14,35
+Olivia Deeble,15,16
+Christine Riccio,16,28
+Jessica Mauboy,19,29
+Bruna Marquezine,21,23
+Lauren Tom,22,57
+Nabela Noor,23,27
+Anushka Sen,24,16
+Jeff Gordon,25,47
+Jessica Sanchez,26,23
+Billy Bob Thornton,27,63
+Caitlin Beadles,28,24
+Tom Parker,29,30
+Nathan Narra,30,17
+Payden Evans Sottile,32,19
+Daniel Dae Kim,34,50
+River Viiperi,35,27
+Marques Houston,36,37
+Elizabeth The Queen Mother,39,1900-2002
+Krischelle Delgado,40,14
+Lee Mack,42,50
+Todd Tucker,43,45
+Abigail Spencer,46,37
+Kym Johnson,47,42
+Olivia Holt,0,21
+Karli Reese,1,14
+Neil Armstrong,2,1930-2012
+Josie Totah,3,17
+Jayla Marie,4,14
+James White,5,28
+Jesse Williams,6,37
+Louis Walsh,8,66
+Jaden Delarosa,9,18
+Amymarie Gaertner,10,24
+Kajol,12,44
+Lolo Jones,13,36
+Cory Williams,14,37
+Nicole Kelly,15,16
+Jessica Nigri,16,29
+Born To Be Ellie,17,15
+Abbey Bankson,18,18
+Rachel Joy Scott,19,1981-1999

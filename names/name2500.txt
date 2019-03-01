@@ -1,0 +1,100 @@
+Claire Hosterman,44,29
+Khadijah Haqq,45,35
+Justin Marloo,46,20
+Tuukka Rask,47,31
+WillNE,0,22
+Jacob Cruikshank,3,17
+Callum McGinley,4,26
+Camden Scott,6,27
+Anthony Davis,7,25
+Alahna Ly,8,18
+John Barrowman,9,51
+Terrence Howard,10,49
+Jude Demorest,11,26
+Grace Sharer,12,18
+Johnny Knoxville,13,47
+Jordan Lipscombe,15,20
+Austin Swift,16,26
+Didier Drogba,17,40
+Branson Tannerites,18,20
+Anton Yelchin,19,1989-2016
+Jennifer Ruiz,20,24
+Joel Madden,21,39
+Maddy Harris,22,22
+Mark Rober,24,38
+LeToya Luckett,25,37
+Gretchen Geraghty,26,21
+Brookie MarissaAndBrookie,27,11
+Mats Van der Graaf,28,16
+Josh Sobo,29,24
+Benji Madden,31,39
+Joseph Sim,32,24
+Chase Crawford,33,22
+Rob Paulsen,34,62
+Paul Wall,35,37
+David Newman,36,64
+Benny Amesquita,37,37
+Parth Samthaan,38,27
+Matreya Fedor,40,21
+Alex Kingston,41,55
+Trent Hatter,42,18
+Greg Olsen,43,33
+Natasha Polis,44,24
+Thora Birch,46,36
+Black Coffee,47,42
+Christina Grimmie,0,1994-2016
+Anna Zak,1,17
+Jessie Paege,2,19
+Malina Weissman,3,15
+Lewis Blissett,4,14
+Andrea Brillantes,5,15
+Smooth Gio,6,17
+Anna Clendening,10,25
+Hana Giraldo,11,24
+Conner Dennis,12,20
+Scrapp Deleon,13,30
+Mitt Romney,14,71
+Kinga Sawczuk,15,17
+RobertIDK,16,24
+Catelynn Lowell,19,26
+Shreya Ghoshal,21,34
+Atif Aslam,22,35
+Liza Minnelli,23,72
+Danny Jones,24,32
+Gibbster,25,15
+Keeley Elise,26,18
+James Taylor,27,70
+B. Smyth,28,26
+Meg Turney,29,31
+Tyler Ward,31,30
+AJ Rafael,32,29
+Marlon Jackson,34,61
+Nordeltus,35,13
+Mr. Grande,36,20
+Elly Jackson,37,30
+Jaimie Alexander,38,34
+Taylor Johnson,39,20
+Frank Welker,41,72
+Daija Wilson,46,17
+Sadia,47,27
+Jordyn Jones,0,18
+Nick Bean,1,23
+Ozuna,2,26
+Monique Lynn,4,21
+Kaya Scodelario,5,26
+Leigh-Allyn Baker,6,46
+Yuya,7,25
+Rachel Renee Russell,8,59
+Lucy Fry,9,26
+Conor Price,11,16
+Common,12,46
+Lizzie Velasquez,13,29
+Noel Fisher,14,34
+Pyper America Smith,15,21
+L,16,26
+Shahid Khan,18,33
+Ben Brown,19,32
+Triston Ortiz,20,15
+Yemi Alade,21,29
+Lauren Wood,22,25
+Charo,23,77

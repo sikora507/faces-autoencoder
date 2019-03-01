@@ -1,0 +1,100 @@
+Veronica Vega,46,27
+Caspar Lee,0,24
+Thomas Sanders,1,29
+Kehlani,2,23
+Kelly Clarkson,4,36
+Skylar Stecker,5,16
+Jordan Fisher,6,24
+Joe Keery,7,26
+Ryan Newman,8,20
+Alli Simpson,9,20
+Varun Dhawan,10,31
+Barbra Streisand,11,76
+Sachin Tendulkar,13,45
+Solomia Lukyanets,14,17
+Kaila Wilkey,15,25
+Jackson O&#039;Doherty,18,24
+Millie Bracewell,19,17
+Sanni,22,22
+Alexis Smith,23,14
+Miles Butler-Hughton,24,17
+Leah Messer,25,26
+Wesley Armstrong,26,34
+Rebecca Mader,27,41
+Travis Clark,28,33
+Alex Edgar,29,30
+Kian Owen,30,15
+Cedric the Entertainer,32,54
+Larramie Shaw,34,26
+Rachel Fong,35,20
+Raya Carmona,36,25
+Julio Gonzalez,37,20
+Ana Lisa Kohler,38,20
+Kenzie Lynn,39,16
+TheGrefg,40,21
+Alejandro Fernandez,41,47
+Sam Humphrey,42,24
+Danny Gokey,43,38
+Tyson Ritter,47,34
+Joslyn Davis,0,36
+Jay Park,1,31
+Daniel Sharman,2,32
+German Garmendia,3,28
+Sianney Garcia,5,17
+Mani,6,18
+Hazel-E,7,38
+Rilyn Dinyae,8,12
+Kem Cetinay,9,22
+Al Pacino,10,78
+Tim Duncan,12,42
+Jason Lee,14,48
+Len Goodman,15,74
+Luni,16,23
+Renee Zellweger,17,49
+Brandon Robert,18,20
+John DeLuca,19,32
+Sara Paxton,21,30
+Rumena Begum,22,26
+Shiloh,23,25
+Angelise Garcia,24,17
+Johan Cruyff,25,1947-2016
+Johnathan Thurston,26,35
+Tyler Rowland,27,30
+Morgan Justus,28,18
+Cameron Brodeur,29,16
+Matthew West,30,41
+Todd Howard,31,47
+Arijit Singh,32,31
+Dennis Vareide,33,28
+Saygin Yalcin,34,34
+Allisyn Ashley Arm,35,22
+Hank Azaria,36,54
+Luana Santos,37,16
+Karen Yeung,40,28
+Antonio Cromartie,42,34
+Miguel Herran,43,22
+Alex Shibutani,44,27
+Nami Cho,46,23
+Michael Badal,47,29
+Channing Tatum,0,38
+Melania Trump,1,48
+Anna McNulty,2,16
+Kane,3,51
+Jason Earles,4,41
+Scott Timlin,6,30
+Jon Cozart,7,26
+Roger Taylor,8,58
+Kevin James,10,53
+Dylynn Jones,12,16
+Taurtis,13,22
+Jet Li,14,55
+Payton Yeager,15,8
+Carol Burnett,17,85
+Keara Graves,18,19
+Stana Katic,19,40
+Jordana Brewster,20,38
+Lushaflor,21,18
+BambinoBecky,22,20
+Tom Welling,23,41
+Lionel Ferro,24,23
+Sterling Griffith,25,17

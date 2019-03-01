@@ -1,0 +1,100 @@
+Alex Parsa,33,15
+Mousie Mouse,34,23
+Emily Wilkinson,35,27
+Kelly Price,36,45
+McDonald Mariga,37,31
+Josh Hayes,38,43
+Sam Frost,39,29
+Phil Manansala,40,30
+Hugo Weaving,43,58
+Tessa Brooks,0,19
+Hunter Rowland,1,17
+Alisha Marie,2,25
+Rachel Ballinger,3,27
+Heath Hussar,4,25
+Pharrell Williams,5,45
+Joshua David Evans,6,34
+Lily James,7,29
+Charlotte Flair,8,32
+Thylane Blondeau,10,17
+Lil Key,11,18
+Hunter March,14,27
+Jake McCormick,15,24
+Zak Bagans,17,41
+Emily Canham,18,21
+Blayke Busby,19,7
+B. Simone,20,28
+Akira Toriyama,21,63
+Koleen Diaz,22,21
+Bryant Myers,23,20
+Violetta,26,23
+Lola Moreno,27,16
+Willgotthejuice,29,21
+Rendall Coleby,30,17
+Hayley Atwell,31,36
+Cara Chatwin,34,29
+Julia Jordan,36,15
+Gregory Peck,37,1916-2003
+Iamthatmusicallygirl,38,16
+Danae Georganta,39,28
+Nick Fleetwood,40,22
+Sterling K. Brown,41,42
+Davie504,42,24
+Emmalyn Estrada,43,26
+Christopher Reid,44,54
+Konstantin PimpjuiceK,45,26
+Keagan Rothermel,46,13
+Kelly Strack,47,25
+Peyton List,0,20
+Casey Simpson,1,14
+Candace Cameron-Bure,2,42
+Miranda May,3,22
+Spencer List,4,20
+Paul Rudd,5,49
+Todd Chrisley,6,49
+Gabrielle Moses,7,18
+Rena Lovelis,8,20
+Meech,10,22
+AshleyTheUnicorn,11,18
+Giselle Lomelino,12,15
+Nathan Zed,14,21
+Queen Zyon,15,16
+Kim Mingyu,17,21
+Marteen Estevez,18,17
+Kiara.amt,19,15
+Charlie McDermott,20,28
+Julie Johnston,21,26
+Israel Dillard,22,3
+Casper Smart,23,31
+Tokio Myers,24,34
+James Willems,25,34
+Theodora Lee,27,27
+CJ Adams,28,18
+Sofia Castro,29,23
+Fletcher Pilon,30,17
+Michael Rooker,32,63
+Kari Jobe,33,37
+Kwesi Boakye,34,19
+Zach Braff,35,43
+Merle Haggard,36,1937-2016
+Black Francis,37,53
+Dre Drizzle,39,25
+Raphael,41,1483-1520
+Louie Spence,42,49
+Rick Cosnett,43,35
+Myleene Klass,44,40
+Anna Maria Velli,45,28
+Teddy Sears,46,41
+Billy Dee Williams,47,81
+Gracie Haschak,0,16
+Jackie Chan,1,64
+Anne-Marie,2,27
+Rykel Bennett,3,13
+Allie Sherlock,6,13
+April Athena,7,33
+Russell Crowe,10,54
+iiFNaTiK,11,21
+Sydney Carlson,12,21
+Saad Lamjarred,17,33
+Martyn Littlewood,18,28
+Shawty Tori,19,16

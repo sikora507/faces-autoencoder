@@ -1,0 +1,100 @@
+Katherine McNamara,8,23
+Tyler Davis,9,13
+Auli&#039;i Cravalho,10,18
+Mark Ruffalo,11,51
+Celine Tam,12,11
+Dacre Montgomery,13,24
+Jamie Campbell Bower,14,30
+Miranda Miller,16,23
+Molly Jackson,17,17
+Jamie Lee Curtis,18,60
+Titi,19,16
+Isaac Frye,20,21
+Emerson Barrett,21,22
+Zack Knight,22,27
+Jack Dauth,23,20
+Lee Jihoon,24,22
+Shangela Laquifa Wadley,25,37
+Angelina Nicolle,26,21
+Mads Mikkelsen,29,53
+Chenle,30,17
+Joe Nieves,31,41
+Song Hye-kyo,32,37
+Vinny Mauro,33,25
+Anthony Amorim,34,21
+Billie Jean King,35,75
+Christian Beadles,36,22
+Nika Ilcic,37,18
+Ashley Kaltwasser,38,30
+Traptastical,39,19
+Molly Rainford,40,18
+Isaac Brinker,43,25
+Adele Exarchopoulos,45,25
+Eric Unger,46,20
+John Kuckian,47,24
+Miley Cyrus,0,26
+Alexis Ren,1,22
+Jack Maynard,2,24
+Bradley Steven Perry,3,20
+Lia Marie Johnson,4,22
+Lil Niqo,5,19
+Dylan Jordan,6,20
+Alan Stokes,7,22
+Snooki,8,31
+Jay Ulloa,9,17
+ChadWithaJ,11,27
+Page Kennedy,13,42
+Lucas Grabeel,14,34
+Snoopmaya,15,17
+Kelly Brook,16,39
+Avani Gregg,17,16
+Damien Haas,18,28
+Julien Bam,19,30
+Ambrie Faith,20,14
+Simply Sofia,21,17
+Fuslie,22,26
+Chris Hardwick,23,47
+Garrett Ginner,24,21
+Justin Turner,26,34
+Will Connolly,28,34
+John Schnatter,29,57
+Jesse Drent,30,23
+Maddy Hayes,31,18
+Madison Willow,33,20
+Lonnie Chavis,34,11
+Char Cherette,35,25
+Stefanie EleventhGorgeous,36,30
+Ded,38,28
+Robin Rene Roberts,39,58
+Nicol\xc3\xa1s Maduro,40,56
+Zoe Ball,41,48
+Asher Blinkoff,42,10
+Jonathan Sadowski,45,39
+Mia Ruby,46,17
+Monica Gartner,47,22
+Peyton Meyer,1,20
+Jordan Beau,2,20
+Sarah Hyland,3,28
+Jaycee Wilkins,5,16
+Katherine Heigl,7,40
+Yovanna Ventura,9,23
+Alexa Losey,10,24
+Zach Letter,11,28
+Hande Ercel,12,25
+Maddie Joy,15,20
+Machel Montano,17,44
+Beth Phoenix,18,38
+Sandra Cires,20,42
+Gwilym Lee,21,35
+Tom Odell,22,28
+Sebastian Barraza,23,25
+Sepanta Arya,24,17
+John Hill,26,28
+Brooke Houts,27,20
+Wes Bergmann,28,34
+Natalie Odell,29,25
+Gus Barry,30,18
+Joven,31,21
+Billy Connolly,34,76
+Georgia Pemberton,36,15
+Leah Jenner,38,36

@@ -1,0 +1,100 @@
+Vlad Reiser,31,25
+Alex Ikonn,32,31
+Jonathan Miller,34,31
+Gaurav Chaudhary,35,27
+Erica Fernandes,36,25
+Aidy Bryant,41,31
+Jeff Johnson,42,45
+Filip Ronaj,43,16
+Russell Dickerson,44,31
+James Eubanks,45,26
+Breckin Meyer,46,44
+Trisha Paytas,1,30
+Ethan Wacker,2,16
+Stephen Amell,3,37
+Enrique Iglesias,4,43
+Marcel Cunningham,5,28
+Mars,7,18
+David Attenborough,8,92
+Bepper,9,17
+Nyle DiMarco,11,29
+Olivia Culpo,12,26
+Matthew Davis,13,40
+Brenden LaTarte,14,17
+Tyler LaTarte,15,17
+Byron Bernstein,17,29
+Kemba Walker,20,28
+Karen Gravano,22,46
+Jensen Steel,23,16
+Ana Mulvoy-Ten,25,26
+Candace Nelson,27,44
+Carlos Alvarez Jr.,28,16
+Jack LaBrant,29,20
+Adrian Gonzalez,31,36
+Melissa Gilbert,32,54
+FaZe CBass,33,24
+Katy B,36,29
+Gina Lorena,37,20
+Anthony Field,39,55
+Elyes Gabel,40,35
+Rizzy Black,41,17
+Phillis Wheatley,43,1753-1784
+AndImGone,44,20
+Kaycie Lee,45,17
+Soloin,46,18
+Collins Key,0,22
+Noah Centineo,1,22
+Cree Cicchino,2,16
+Billy Joel,3,69
+Jelina,4,20
+Melanie Deangelis,5,15
+Ben Hampton,6,7
+NeatMike,8,25
+Alexandra Chaves,9,17
+Travis Turner,11,31
+Jack Fincham,12,27
+Tamia Hill,13,43
+Musicallymaxim,14,17
+Mariano Di Vaio,15,29
+Willyrex,16,25
+Sasha Farber,17,34
+Rosario Dawson,18,39
+AmbitionBanks,20,25
+Ghostface Killah,21,48
+Danny Duncan,22,32
+Brennan Tracy,25,23
+Audrina Patridge,26,33
+Pierre Bouvier,28,39
+Albert Finney,29,1936-2019
+Jinger Olinselot,30,35
+Braison Cyrus,34,24
+Meso Sacred,35,22
+Marie Edwards,37,26
+Chris Zylka,38,33
+Dave Gahan,39,56
+Mary Mouser,41,22
+Prince Fielder,45,34
+Doug Christie,47,48
+Emilio Martinez,0,19
+Iv\xc3\xa1n Martinez,1,19
+Kayla Jones,2,21
+Marlon Webb,3,27
+Bono,4,58
+Sypher Ali,5,22
+Kenan Thompson,6,40
+Carley Tabler,7,22
+Halston Sage,8,25
+Adebayo Akinfenwa,9,36
+Maria Jeleniewska,10,16
+Aidan Prince,11,12
+Missy Franklin,12,23
+Lindsey Shaw,13,29
+Mat Franco,14,30
+Jake Zyrus,15,26
+Pressa,16,22
+Angel Gibbs,18,19
+Willow Morgan,19,6
+Leah Gosselin,21,14
+Sarah Webber,22,18
+Sam Anderson,23,30
+Zoranna Jovanovic,24,28

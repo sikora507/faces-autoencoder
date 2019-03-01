@@ -1,0 +1,100 @@
+Iris Ferrari,9,16
+Chance Morris,10,25
+Todd Jones,11,31
+Codee Yount,12,26
+Galileo Galilei,13,1564-1642
+Amber Riley,14,33
+Therese Lindgren,16,32
+Deevon Osley,17,21
+Matt Groening,19,65
+Ross Duffer,22,35
+Omarosa Manigault,23,45
+Ziggy,24,28
+Gloria Trevi,25,51
+Emily Bott,26,14
+Jane Seymour,28,68
+Cordell Broadus,29,22
+Beatrice Miller,30,26
+Matt Duffer,31,35
+Merik Smith,33,19
+Samantha Gordon,35,16
+Jonathan Gilyana,36,21
+Janice Dickinson,37,64
+Alex George,38,29
+10k.caash,42,18
+Chantal Janzen,43,40
+Alex Borstein,44,48
+Jarryd Hayne,47,31
+The Weeknd,0,29
+Alex Aiono,2,23
+Chloe East,3,18
+Jackson Felt,4,16
+Grace Mulgrew,5,13
+Elizabeth Olsen,6,30
+Amanda Holden,7,48
+Ava Max,8,26
+Andy Fowler,9,25
+Ashlund Jade,10,16
+Ice T,11,61
+Papa Rug,14,51
+Lenarr,15,21
+Matthew Knight,19,25
+Akidearest,20,26
+KittyPlays,21,27
+Eden Simpson,22,18
+Jimmy Tatro,23,27
+Christopher Eccleston,26,55
+Kim Soo Hyun,27,31
+Valentino Rossi,28,40
+June Brown,29,92
+Kim Jong-il,30,1941-2011
+Olivia Taylor,31,14
+TeaLynn Adamson,32,15
+Lupe Fiasco,33,37
+OfficialDuetQueen,34,14
+aDrive,36,28
+GraceFitUK,37,22
+Kara Lindsay,39,34
+icolor500,40,18
+Cathy Freeman,41,46
+Mahershala Ali,43,45
+Charlie Green,44,22
+James Ingram,46,1956-2019
+Savannah May,47,21
+Ed Sheeran,0,28
+Michael Jordan,1,56
+Sasha Pieterse,2,23
+Paris Hilton,3,38
+Billie Joe Armstrong,4,47
+Bonnie Wright,6,28
+Peyton Evans,7,10
+Chord Overstreet,9,30
+Jenna Raine,10,15
+Anne Curtis,11,34
+Joseph Gordon-Levitt,12,38
+Larry the Cable Guy,13,56
+6ix,15,28
+Vicente Fernandez,16,79
+Antonio Ramos,17,33
+Michael Bay,18,54
+Meaghan Jette Martin,19,27
+Dominic Purcell,20,49
+Denise Richards,21,48
+Tyler Crispen,22,24
+Val Mercado,24,27
+Becky Nicholson,25,37
+Landon Clifford,26,18
+Jason Ritter,27,39
+Hiu Yi Cheung,28,15
+Marc M\xc3\xa1rquez,29,26
+Cameron Seely,30,12
+AB de Villiers,32,35
+Nathan Evan,34,24
+Rebecca Adlington,35,30
+Marcus Oglesby,36,31
+Allen Sarinana,38,24
+Jim Brown,39,83
+Sivakarthikeyan,41,34
+Dean Gibbons,42,25
+Karter Zaher,43,27
+Jenn Aguirre,44,30

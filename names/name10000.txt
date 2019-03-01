@@ -1,0 +1,100 @@
+Derrick Rose,3,30
+Dakota Johnson,4,29
+SoLLUMINATI,5,24
+Lil Mama,6,29
+Amber Davies,7,22
+Alicia Silverstone,8,42
+Rachael Leigh Cook,9,39
+Bill Fagerbakke,10,61
+Ashley Banjo,11,30
+Amara La Negra,12,28
+Milo Parker,13,16
+Stacey Solomon,14,29
+Ned Luke,15,60
+Russell Simmons,17,61
+Yoon Jeonghan,18,23
+Susan Sarandon,19,72
+Mikolas Josef,20,23
+Emerald Gordon Wulf,21,12
+Jordan Young,23,17
+Dale Whibley,24,21
+Archie Lyndhurst,25,18
+BT,26,48
+Brynn Thayer,27,69
+Caleb Walker,28,41
+Shontelle,30,33
+Ava Sambora,31,21
+Ryan Lee,32,22
+Rupi Kaur,33,26
+Sophia Gall,34,2001-2018
+Krypto9095,36,33
+Daniel Lissing,38,37
+Alejandro Manzano,39,32
+iDeactivateMC,40,22
+Christoph Waltz,41,62
+William Violette1st,42,17
+Liev Schreiber,43,51
+Youssef Sawmah,44,21
+Cody Andrew,45,37
+Caner Erkin,46,30
+Shay Bella,47,17
+Mahogany LOX,1,24
+Kate Winslet,3,43
+Bernie Mac,4,1957-2008
+Ben Morris,5,18
+Kevin Olusola,6,30
+Claire Crosby,7,6
+Dalila Bela,8,17
+Millie Innes,9,18
+Gerardo Ortiz,11,29
+Abreu Sosa,12,25
+Jesse Eisenberg,13,35
+Brooke Valentine,15,34
+Chrissy Chambers,16,28
+Brian Johnson,17,71
+Neil deGrasse Tyson,18,60
+Mercedes Lambre,19,26
+Scott Weinger,20,43
+Andrew Fontenot,21,22
+Lulu Wilson,22,13
+Michael Morpurgo,23,75
+Sarah Schauer,25,25
+Cassidy Valentine,28,21
+Kara Royster,29,25
+Lais Ribeiro,31,28
+Wismichu,32,25
+Nicki Andrea,33,23
+Nicky Hilton,34,35
+Danla Bilic,35,24
+Matthew Sherrill,36,19
+Mario Lemieux,38,53
+Betty Who,39,27
+George Zimmerman,40,35
+Nick Robinson,41,55
+Logan Rorke,42,17
+Phil Cornwell,43,61
+Imaan Hammam,44,22
+Grant Hill,45,46
+Ivy Winters,46,32
+Bob Geldof,47,67
+Leondre Devries,1,18
+Jazz Jennings,2,18
+Jordan Matter,4,52
+Daniel Nguyen,5,25
+Roshon Fegan,7,27
+Nicole Corrales,8,21
+Sergio Calderon,9,18
+Rio Mangini,10,16
+Matt Cornett,11,20
+Prymrr,14,13
+Jared Dines,15,29
+Tae Brooks,16,21
+Amy Jo Johnson,17,48
+Cameron Kennedy,18,25
+Anllela Sagra,20,25
+Kaede Koga,22,16
+Monique Samuels,23,35
+Bruno Sammartino,26,1935-2018
+Elisabeth Shue,28,55
+Damn Tommy,30,17
+Sophina DeJesus,31,24

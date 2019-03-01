@@ -1,0 +1,100 @@
+Alexander Rybak,26,32
+Lena Dunham,27,32
+Roman Lochmann,32,19
+krNfx,33,29
+Misha Gabriel,35,31
+Laura Grace,37,16
+Chelsea Briggs,38,33
+Em Ford,39,28
+Iwan Rheon,41,33
+Dylan Lopez,43,16
+John Kasich,45,66
+Maddy Whitby,46,27
+Miranda Cosgrove,0,25
+TheOdd1sOut,1,22
+Pokimane,4,22
+Martin Garrix,5,22
+Olly Murs,7,34
+Mark Zuckerberg,8,34
+Taylor Darling,9,21
+Rob Gronkowski,10,29
+George Lucas,12,74
+Woody McClain,13,29
+Cate Blanchett,14,49
+Cole Bennett,15,22
+Jelian Mercado,16,21
+Clay Matthews,17,32
+Nikki Phillippi,18,31
+Dustin Lynch,19,33
+Zack Ryder,20,33
+Anahi,21,35
+Janelle Ginestra,22,29
+Amber Portwood,23,28
+Jahking Guillory,24,17
+LanasStuff,25,21
+Noah Levi,26,17
+Anjelah Johnson,28,36
+Ryan McKenna,32,14
+Cartoon Connect,33,25
+Kiara,35,55
+Jade Pink,39,17
+Saiyr,40,23
+Sam Dameshek,43,19
+Amy Shark,45,32
+Emily Huff,46,20
+Luke Olinselot,47,13
+Chase Hudson,1,16
+Meg DeAngelis,2,23
+SmokePurpp,3,21
+Sarah Hunt,5,13
+Birdy,7,22
+Hala Al Turk,8,16
+Andy Murray,9,31
+Landon Dowlatsingh,10,28
+Leek Jack,11,21
+Stella Maxwell,12,28
+Ray Lewis,13,43
+Mollee Gray,14,27
+Zara Phillips,18,37
+Emmitt Smith,19,49
+Madhuri Dixit,20,51
+Jed Elliott,21,27
+Esa Fung,23,26
+Nick Purcha,24,21
+Ousmane Dembele,25,21
+Jocelyn Chew,26,26
+The Kid Mero,28,35
+Sunny,29,29
+LOGinHDi,31,22
+Girl Crush,33,27
+Lucy Maguire,34,19
+Maximus Muniz,35,13
+Lucas Feuerschutte,36,28
+Saira Khan,37,48
+Sarah Hadland,38,47
+Mr. Probz,39,34
+Reed Robertson,40,23
+Santimaye,41,24
+Lilie Moore,43,17
+Alexandra Breckenridge,44,36
+Ashlynn Yennie,45,33
+James Bennewith,46,27
+Sophie Cookson,47,28
+Joey Graceffa,0,27
+Andre Swilley,1,20
+Thomas Brodie-Sangster,2,28
+Carlos Mena,3,15
+Megan Fox,4,32
+Janet Jackson,5,52
+Josh Temple,6,21
+Kelly Hyland,8,47
+Joseph Morgan,9,37
+Avrey Ovard,10,16
+IamSanna,11,20
+IU,12,25
+Catherine Valdes,14,29
+Behati Prinsloo,15,29
+Miles Heizer,17,24
+Shane Madej,18,32
+Nancy Ajram,19,35
+Ana Cheri,20,32

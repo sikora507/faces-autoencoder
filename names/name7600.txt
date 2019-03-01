@@ -1,0 +1,100 @@
+Christopher Nolan,40,48
+Jake Fromm,41,20
+Leanne Tessa,42,18
+Matty Nev,43,15
+Lara Jean Marshall,46,30
+Lisandra,47,17
+Bretman Rock,1,20
+Angelica Hale,2,11
+J.K. Rowling,3,53
+Beau Brooks,4,25
+Blake Michael,5,22
+Susan Bennett,6,69
+Matt Shadows,8,37
+Rico Rodriguez,10,20
+Kap G,11,24
+Charlie Carver,12,30
+Mark Cuban,14,60
+BJ Novak,19,39
+Wesley Snipes,20,56
+Blanca Garcia,22,27
+Alissa White-Gluz,23,33
+Alexis Knapp,24,29
+Raye Boyce,26,28
+Jordan Doww,27,23
+Andres Zurita,28,21
+Ash Stymest,29,27
+Marshall Williams,30,29
+Sean Kyer,31,17
+Joey Richter,32,29
+AeroViro,33,21
+Evgeni Malkin,34,32
+Kim Sae-ron,35,18
+Paige Hathaway,36,31
+Daniele Negroni,38,23
+Vicki Li,40,25
+Tui Sutherland,41,40
+Hanan Ibrahim,42,26
+Fooligan,43,26
+Lizzy,44,26
+DeMarcus Ware,45,36
+Zelda Williams,46,29
+Alyssa Light,47,20
+Mia Stammer,0,24
+Casey Barker,1,23
+Jason Momoa,2,39
+Leon Thomas III,3,25
+JJ Hannon,6,17
+Max Carver,8,30
+Kenza Boutrif,9,17
+Cymphonique Miller,10,22
+Eden Skory,11,18
+Van McCann,12,26
+Barbie Imperial,13,20
+Elijah Kelley,14,32
+Granny,15,92
+Chantel Houston,16,27
+Coolio,17,55
+Kenzie Elizabeth,19,21
+Bastian Schweinsteiger,20,34
+Oona Laurence,21,16
+Tiffany,22,29
+Jack O&#039;Connell,24,28
+Grant Crapp,25,23
+Anna Graceman,26,19
+Ryan Tan,28,30
+Ramya Hall-Johnson,30,15
+Madison Bumgarner,31,29
+Raina Harten,35,15
+Jodie Porteous,36,24
+Rell Love Jones,37,25
+Nemanja Matic,39,30
+La&#039;Porsha Renae,40,25
+Adam Jones,44,33
+Dwayne Wilson,46,34
+Khamani Griffin,47,20
+Darius Dobre,0,23
+Vikram Barn,1,23
+Charli XCX,2,26
+Autumn Miller,3,17
+Sophia Mitchell,6,17
+Jonas Blue,7,29
+Bahja Rodriguez,8,22
+Mark Lee,9,19
+Britt Nicole,10,34
+Giancarlo Purch,11,18
+Sam Thompson,13,26
+Sam Gowland,16,23
+Skylar Diggins,18,28
+Penguinz0,19,24
+Tristen Banks,21,19
+Julia Starczewski,22,16
+Harjit Bhandal,23,26
+Sidney Cellas,24,20
+Jason Gray,25,33
+Golden Tate,26,30
+Shane Niemi,27,23
+Tiana Small,28,27
+Dingdong Dantes,29,38
+Jim Neidhart,30,1956-2018
+Crystal Lee,31,27

@@ -1,0 +1,100 @@
+AuronPlay,22,30
+Harley Streten,23,27
+Ally Hardesty,24,22
+Nick Bateman,25,51
+Kathryn Palmer,26,25
+Josie Canseco,27,22
+Ike Turner,28,1931-2007
+Jimbo-lee,29,27
+Alexa Chung,30,35
+Vivien Leigh,31,1913-1967
+BoA,32,32
+Tilda Swinton,33,58
+Famke Janssen,34,54
+Regulo Caro,35,37
+Dillon Henderson,37,20
+Zak Henri,38,24
+Devyn Bess,40,21
+Tatum O&#039;Neal,42,55
+Pia Muehlenbeck,43,27
+Madison McLaughlin,44,23
+Brian Cruz,45,20
+Sam Rockwell,46,50
+Lauren Orlando,0,14
+Alastair Aiken,1,25
+Emma Stone,2,30
+Bailey Ballinger,3,11
+Hero Fiennes-Tiffin,5,21
+Taylor Braungardt,7,16
+Lamar Odom,8,39
+DJ Prince,9,17
+Kris Wu,10,28
+Talia Mar,11,22
+Tyler Pappas,13,27
+Marissa Tracy,14,17
+Sharky Adventures,16,26
+Hannah McCloud,17,15
+Barrett Weed,18,30
+Pierson Fode,19,27
+Sally Field,20,72
+Teddy Zois,21,15
+Katie Leclerc,22,32
+Daniela M. Biah,23,25
+Sierra Egan,24,23
+Ethan Hawke,25,48
+Mohamed Hadid,27,70
+Ana Ivanovic,28,31
+Alex Beattie,29,24
+Adriano Zumbo,31,37
+Garrett Gee,32,29
+PurpleRodri,33,27
+Rebecca Romijn,34,46
+Kekeli Kuwonu,35,21
+Dorothy Gee,36,6
+Elizabeth Root,38,20
+Joan Kim,40,27
+Thandie Newton,42,46
+Mya-Lecia Naylor,44,16
+Lee Dong-wook,45,37
+Kelly Rutherford,46,50
+Taryn Manning,47,40
+Bethany Mota,0,23
+Lorde,1,22
+Charles Martin,3,13
+David Guetta,4,51
+Amybeth McNulty,5,17
+Algee Smith,7,24
+Adam DeVine,10,34
+Terra Vlach,11,33
+Elsa Hosk,12,30
+Joanna Zhou,15,34
+Evan Breen,16,30
+Captain James Cook,17,1728-1779
+Tinie Tempah,18,30
+Laura Vitale,20,32
+THE8,22,21
+Taira Macauley,23,37
+Keesha Anderson,26,25
+Rio Ferdinand,27,40
+Reagan Yorke,28,18
+Bonnie Neiland,30,16
+Zo,31,29
+Jake Johnston,33,21
+Anushka Shetty,34,37
+Kamal Haasan,35,64
+Barney Harwood,36,39
+Michael Dameski,38,23
+Joni Mitchell,40,75
+Strange Aeons,41,20
+Hannah Zeile,42,21
+Grae Fernandez,43,17
+Autumn Ajirotutu,44,30
+Kyler Kristopaitis,45,17
+Amy Purdy,47,39
+Daniel Middleton,0,27
+Gordon Ramsay,1,52
+Jade Pettyjohn,2,18
+SZA,3,28
+Erica Mena,6,31
+Nick Mara,7,21
+Riker Lynch,8,27

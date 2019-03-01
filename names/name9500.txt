@@ -1,0 +1,100 @@
+Sammi Hanratty,11,23
+Phillip Phillips,12,28
+Donna Marie Lombardi,14,26
+Mallory Everton,15,29
+Scrubzah,16,20
+Danielle Carolan,17,20
+Jason Drucker,18,13
+Jesse Baron,19,23
+Michelle Visage,20,50
+Khabib Nurmagomedov,22,30
+Neven Crisorio,23,17
+Sophia Loren,24,84
+Jon Bernthal,26,42
+Ricci Guarnaccio,28,32
+Dominic Toliver,29,25
+Beau Griffiths,30,35
+Daniel El Travieso,31,24
+George RR Martin,33,70
+Marissa Jade,34,34
+Nicola Haste,35,38
+Julian Draxler,36,25
+Emma Keuven,37,13
+The-Dream,38,41
+Belen Rodriguez,39,34
+Bbpaws,40,28
+Jessica Lesaca,42,31
+Simrin Player,43,20
+Vik Sahay,45,47
+Sabina Hidalgo,46,19
+Abby Lee Miller,0,52
+Jason Derulo,1,29
+Lindsey Stirling,2,32
+Stephen King,3,71
+Henry Gallagher,4,16
+Lana Rose,5,29
+Kenneth Morrison,7,33
+Dave Coulier,8,59
+Bill Murray,9,68
+Jillian Babyteeth4,10,13
+Qias Omar,11,30
+Dagi Bee,12,24
+Liam Gallagher,13,46
+Jena Frumes,14,25
+Reese LeRoy,15,9
+Nina Nelson,16,25
+Faith Hill,17,51
+Wale,18,34
+Ryan Guzman,19,31
+Alfonso Ribeiro,20,47
+Paulo Londra,21,20
+Nicole Richie,22,37
+Daan Creyghton,25,16
+Joseph Mazzello,27,35
+Chen,30,26
+Clara Alonso,33,31
+Nick Knowles,34,56
+Oscar Casas,36,20
+Diego Martin,37,44
+Anne Burrell,38,49
+Christian Serratos,39,28
+Ricki Lake,40,50
+Wang Junkai,42,19
+Petra Kero,43,17
+Randa Nelson,44,25
+Maddynf,46,20
+Kristine Froseth,47,22
+Tom Felton,0,31
+Melvin Gregg,2,30
+Moneybagg Yo,4,27
+Mamrie Hart,5,35
+Jazlyn G,6,14
+Jenn Im,7,28
+Chris Tallman,8,48
+Billie Piper,10,36
+Nayeon,11,23
+Sarah Cho,12,13
+Ja Vonne Beard,15,37
+Issa Thompson,16,24
+Michael Rainey Jr.,17,18
+Joan Jett,18,60
+Erin Pitt,19,19
+Andrea Bocelli,20,60
+Lloyd Cadena,21,25
+Maris Racal,22,21
+Thiago Silva,23,34
+Tatiana Maslany,24,33
+Scott Baio,26,58
+Leah Wood,27,40
+iRunYew,28,19
+Ali Baluch,29,29
+Desyrae Martines,30,17
+Zoey Robertson,31,7
+Ameer Vann,32,22
+Carlos Correa,33,24
+Parry Gripp,34,51
+Chase Ellison,35,25
+Asha Kosh,36,20
+Giuseppe Barbuto,37,22
+Kim Yoo-jung,39,19
+Ruth Jones,40,52

@@ -1,0 +1,100 @@
+Rafael Amaya,43,42
+Bernadette Peters,44,71
+Lil Shawn,46,21
+Ja Rule,0000,42
+Mark Foster,1111,34
+Korede Bello,2222,22
+Giovanni Rivera,3333,22
+Khaled,4444,58
+Tony Robbins,5555,58
+Jessie Usher,6666,26
+Peter Scanavino,7777,38
+Lena Gercke,10101010,30
+Tempest Storm,11111111,90
+Bizzy,13131313,38
+Antonio Sabato Jr.,15151515,46
+Majesty Rose,18181818,26
+Pedro S\xc3\xa1nchez,20202020,46
+Chaz Wolcott,21212121,30
+Joey Greco,22222222,46
+Caitlin EJ Meyer,24242424,26
+Dennis Farina,26262626,1944-2013
+Hannah Mills,29292929,30
+Cullen Jones,32323232,34
+Janvi Chheda,33333333,34
+Saul Williams,35353535,46
+Jessica Long,37373737,26
+Benedikt Howedes,38383838,30
+Ken Foree,40404040,70
+Rakhee Thakrar,42424242,34
+Joss Ackland,43434343,90
+Alex Rocco,44444444,1936-2015
+Justin Bieber,0,24
+Jensen Ackles,2,40
+Kesha,3,31
+Stephen Sharer,4,20
+Demetrius Harmon,5,20
+Daniella Monet,6,29
+Lorenzo Greer,7,9
+Nathan Boucaud,8,23
+Nathan Sharp,9,29
+Aksually,11,19
+Lupita Nyong&#039;o,12,35
+Ava Allan,13,18
+Emeraude Toubia,14,29
+Duncan Jones,15,31
+Sawyer Sharbino,17,12
+Mark Paul Gosselaar,18,44
+Booker T,20,53
+Ayzria,23,17
+Kevlex Pazmi\xc3\xb1o,24,18
+Alan Thicke,25,1947-2016
+Shahid Afridi,27,38
+Ron Howard,30,64
+Emma,31,29
+Parker Bates,32,11
+Dalia Mya,33,16
+Cara Buono,34,44
+Javier Bardem,35,49
+Millie Simmonds,36,15
+Chris Pe\xc3\xb1a,37,23
+Izabella Alvarez,39,14
+Carlos Vela,41,29
+Harry Belafonte,44,91
+Dalia Grybauskaite,45,62
+Robert Alcorta,46,18
+Don Lemon,47,52
+Savannah LaBrant,0,25
+Becky G,1,21
+Nikkie De Jager,2,24
+Joe Weller,3,22
+Rebel Wilson,6,38
+Cadet,7,1990-2019
+Jon Bon Jovi,8,56
+James Arthur,9,30
+Lexee Smith,10,17
+Chelsea Crockett,11,20
+Ryan Herron,13,14
+Veronica Dunne,14,23
+Daniel Craig,16,50
+Ben Roethlisberger,17,36
+Harry Redknapp,18,71
+Luke Combs,19,28
+Milan Mirabella,20,15
+Alex Erin,21,18
+Bryce Dallas Howard,23,37
+Tiger Shroff,24,28
+Avery Morrison,26,16
+Method Man,27,47
+Bailey McConnell,28,19
+Caleb Lee Hutchinson,29,19
+Cailee Rae,30,18
+Paola Lct,31,14
+Trent Garrett,32,34
+David Lerma Patino,33,20
+Reggie Bush,35,33
+Henrik Lundqvist,36,36
+Jill Cimorelli,37,24
+Bianca Umali,39,18
+Adam Conover,40,35
+Elizabeth Hiley,41,14
